@@ -1,0 +1,742 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Cresset, Gent. truly stated, and humbly presented to the consideration of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81259</idno>
+            <idno type="STC">Wing C848bA</idno>
+            <idno type="STC">ESTC R175655</idno>
+            <idno type="EEBO-CITATION">45504387</idno>
+            <idno type="OCLC">ocm 45504387</idno>
+            <idno type="VID">171689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2587:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Cresset, Gent. truly stated, and humbly presented to the consideration of Parliament.</title>
+                  <author>Cresset, John.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cresset, John.</term>
+               <term>Claims against decedents' estates --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171689:1" rendition="simple:additions"/>
+            <head>The Caſe of <hi>John Creſſet,</hi> Gent. truly ſtated, and humbly preſented to the Conſideration of Parliament.</head>
+            <p>
+               <hi>JOhn Bodvel,</hi> 
+               <abbr>Eſq</abbr> being ſeized in Fee of 1700 <hi>l. per Annum,</hi> Intermarried in 1638, with <hi>Ann</hi> the Daughter of Sir <hi>William Ruſſel,</hi> and by Indenture dated the 20 of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1639, ſetled his Eſtate, (by which ſettlement amongſt other things) there was a Proviſion made for raiſing 5000 <hi>l.</hi> for his Daughter or Daughters, that he ſhould have at the time of his Deceaſe to be paid them at their Age of 21 years or day of Marriage which ſhould firſt happen.</p>
+            <p>
+               <hi>John</hi> had two Daughters, <hi>Elizabeth</hi> and <hi>Sarah, Elizabeth</hi> died in <hi>July</hi> 1662, <hi>Sarah</hi> the 21 of <hi>December</hi> 1657, Intermarried with the Honourable <hi>Robert Roberts,</hi> 
+               <abbr>Eſq</abbr> had by him Iſſue ſeveral Sons and Daughters in the life-time of her ſaid Father, who died the 28 of <hi>March</hi> 1663, after whoſe Deceaſe one <hi>Thomas Wynn,</hi> 
+               <abbr>Eſq</abbr> with others ſet up a pretended Will of his, whereby he had totally diſinherited his ſaid Daughter <hi>Sarah</hi> and her Children, given her only 5000 <hi>l.</hi> and deviſed all the reſt of his Eſtate to <hi>Griffith Wynn</hi> Son of the ſaid <hi>Thomas Wynn,</hi> and one <hi>Thomas Bodvel</hi> both Infants:</p>
+            <p>Whereupon ſeveral Suits aroſe, the management whereof was committed to the care of <hi>John Creſſet,</hi> who undertook the ſame, and 'twas as much as poſſible he could do, ſo that he was forced to put off above 38 Cauſes, and deny to meddle with any other buſineſs for ſeveral years together, whereby he was greatly prejudiced in his Practice.</p>
+            <p>There were ſix Suits in <hi>Chancery,</hi> two in the Prerogative Court, and ſeveral at Law violently proſecuted (the expence and charges being quick and great,) Mr. <hi>Roberts</hi> wanting Money to defray the ſame, prevailed with <hi>Creſſet</hi> to procure him ſupplys as he had occaſion.</p>
+            <p>Whereupon the ſaid <hi>Creſſet</hi> borrowed for him the ſeveral ſums, and of the ſeveral perſons in the Accompt following mentioned, and became bound with him for the ſame, amoun<g ref="char:EOLhyphen"/>ting in the whole to about 4000 <hi>l.</hi> to defray the charges of theſe Suits, his Journey into <hi>Wales</hi> to take poſſeſſion of the Eſtate, and paying his Fathers Debts, and Funeral charges.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 Mar. 1663."/> For ſecuring whereof the ſaid <hi>Robert</hi> and <hi>Sarah</hi> by Deed indented dated 1. <hi>March,</hi> 1663, aſſigned to the ſaid <hi>Creſſet</hi> the 5000 <hi>l.</hi> Portion due by the Deed of the 20 of <hi>February</hi> 1639, and alſo the 5000 <hi>l.</hi> given by the pretended Will aforeſaid.</p>
+            <p>The tediouſneſs, intricacy and trouble of thoſe Suits is ſo well known, that there is no need to give any account how many Hearings there was in Chancery, each holding three whole days, how many days Hearings in Parliament upon the Appeal? how many afterwards before both Houſes, and his Majeſty and Councel; (when before them by Bill to make null and void the ſaid Will,) what care <hi>Creſſet</hi> took, what trouble he had, and induſtry he uſed, and the charge that thoſe proceedings muſt neceſſarily occaſion, is ſubmitted to judgment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Febr. 1666."/> The Parliament paſſed an Act for nulling the ſaid Will, and for veſting his Eſtate in the Right Honourable <hi>John</hi> Lord <hi>Roberts,</hi> Sir <hi>Richard Wynn,</hi> and <hi>Henry Wynn</hi> in truſt to raiſe money, by perception of rents or ſale of part of the premiſes wherewith to pay <hi>Bodvel</hi>'s Debts due when he died, and his Funeral Charges, and then to pay 5000 <hi>l.</hi> to <hi>Sarah Roberts</hi> for her Portion according to the Deed of 20 <hi>February</hi> 1639, remainder for life to <hi>Sarah,</hi> re<g ref="char:EOLhyphen"/>mainder in Tail to <hi>Charles Bodvell, Roberts</hi> her Son, (which Act <hi>Creſſet</hi> conſented unto, though it cut off half his Security, relying upon their Promiſes of giving other Security in lieu thereof).</p>
+            <p>This Truſt they having accepted, and ſold Land for 1700 <hi>l.</hi> and paid part of <hi>Bodvell</hi>'s Debts therewith.</p>
+            <p>
+               <hi>Creſſet</hi> made Application to them for his 5000 <hi>l.</hi> and prayed Land might be ſold for the ſame, had often Promiſes from ſome of them, that there ſhould ſo be, and for that purpoſe had Particulars given him, and was deſired to find out a Purchaſer, or one that would lend Money upon a Morgage to pay himſelf 5000 <hi>l.</hi> and 2000 <hi>l.</hi> of <hi>Bodvell</hi>'s Debts;<note place="margin">Note by this, that in 1666, Mr. <hi>Roberts</hi> knew there was above 5000 <hi>l.</hi> due to <hi>Creſſet.</hi>
+               </note> and Mr. <hi>Roberts</hi> by his Letter dated the 28 <hi>Febr.</hi> 1666, gave Aſſurance that the reſt of <hi>Creſſets</hi> debt (over and above the ſaid 5000 <hi>l.</hi>) ſhould be otherwiſe ſecured, whereupon a Purchaſer was found. But the Lord <hi>Roberts</hi> would not do any thing therein other than what by law or equity he ſhould be directed.</p>
+            <p>
+               <hi>Creſſet</hi> having uſed all manner of Endeavours waited two years after the Act, and recei<g ref="char:EOLhyphen"/>ving no ſatisfaction, being arreſted and ſued by ſeveral perſons to Judgments and Executions taken out by ſurprize and executed upon him, was forced to ſell Lands of his own of the yearly value of 300 <hi>l.</hi> at leaſt at great under-rates to raiſe money for to pay part of the ſaid Money ſo by him borrowed for the ſaid <hi>Roberts</hi> with the Intereſt thereof, where<g ref="char:EOLhyphen"/>by
+<pb n="2" facs="tcp:171689:2"/>
+he loſt his Eſtate, and was vaſtly prejudiced in his Practice, Credit, and Reputation; and finding no relief by fair means. He thereupon in</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Trinity-Term 1668."/> Drew a B<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Chancery againſt the ſaid <hi>John</hi> Lord <hi>Roberts,</hi> Sir <hi>Richard Wynn, Henry Wynn, Robert, Sarah,</hi> and <hi>Charles Bodvell Roberts,</hi> ſetting forth the matters aforeſaid, and his Debt, how he ſuffered for want of receiving the ſame, pray'd a Decree for ſale of Lands. This Bill (before filed) was delivered to <hi>Henry Wynn</hi> to carry to <hi>John</hi> L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd <hi>Roberts,</hi> and to amend as he pleaſed, the ſaid <hi>Creſſet</hi> being aſſured it ſhould be a ſuit by co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſent only, to have the Judgment of the Court for the Truſtees Indemnity; which Bill was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mended by Mr. <hi>Wynn,</hi> and approved of under his hand to be exhibited againſt the Tru<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ees, and ſo delivered back, and was engroſſed and filed.</p>
+            <p>To this Bill al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Defendants (except <hi>John</hi> Lord <hi>Roberts</hi>) put in their ſeveral Anſwers <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> Term f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llowing, confeſſed all the matter of the Bill, and <hi>R. Roberts,</hi> and <hi>Sarah</hi> his Wife confeſſed <hi>Creſſet</hi> debt, the juſtneſs of his accompt and demands, the great ſervices he had done them, and his <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fferings for them, deſired Lands might be ſold to pay him, and ſubmitted to the judgment <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Court, being ready to obſerve the directions thereof. But the Lord <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> he put into Anſwer, whereupon the Right Honourable the Lord Keeper 16 <hi>January</hi> 1668, writ to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Lordſhip to deſire him (if he thought fit) to appear and anſwer the ſaid Bill; but he d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not anſwer, though <hi>Creſſet</hi> offered to ſubmit himſelf and his concerns to his Lordſhips ow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appointment and determination.</p>
+            <p>
+               <hi>Creſſet</hi> bein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſured by Mr. <hi>Roberts,</hi> and his Lady, that the Lord <hi>Roberts</hi> (though he had not anſwered would abide the judgment of the Court thereupon, at their importunity he moved for a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earing againſt the other Defendants.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27 Jan. 1668."/> Ordered that is Cauſe be heard on Bill and anſwer'd the 8 <hi>February</hi> 1668, and the Cauſe was ſet down <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Defendants ſerved to hear Judgments, and Counſel intruſted accordingly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Febr. 1668."/> The Lord <hi>Rob<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts</hi> ſent to Mr. <hi>Henry Wynn</hi> to inſiſt at the hearing upon three things:
+<list>
+                  <item>Firſt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat his Lordſhip had not anſwered, neither was he in contempt, therefore no Dec<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e ought to be made.</item>
+                  <item>Secon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y, That <hi>Robert Roberts</hi> had been in the poſſeſſion, received the Profits ever ſinc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Bodvell</hi> died, of his Eſtate, and thereby was paid the 5000 <hi>l.</hi> in queſtion.</item>
+                  <item>Thirdl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, That <hi>Bodvell</hi>'s Debts and Funeral-Charges was to be paid before the 500 <hi>l.</hi> and thoſe not yet paid.</item>
+               </list>
+            </p>
+            <p>At which <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Mrs. <hi>Roberts</hi> telling the ſaid <hi>Creſſet</hi> and Mr: <hi>Wynn,</hi> that the Lord <hi>Roberts</hi> was not ſatisfi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with his Accompts, which occaſioned his being angry. <hi>Creſſet</hi> offered to put off th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearing for 14 days if the Defendants would conſent, and then ap<g ref="char:EOLhyphen"/>pear gratis, a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the mean time wave all his Securities, Judgments, Releaſes, and come to an accompt w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h any perſon his Lordſhip ſhould appoint, and abide by that perſons determi<g ref="char:EOLhyphen"/>nation if his L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdſhip would be pleaſed to be ſatisfied therewith; this accordingly was a<g ref="char:EOLhyphen"/>greed unto. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid <hi>Creſſet</hi> ſent to the Lord <hi>Roberts</hi> to that purpoſe, and <hi>Edward Noſworthy,</hi> 
+               <abbr>Eſq</abbr> (a perſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well acquainted with Suits, and the chargableneſs of them) was appointed to inſpect the A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ompts, the which were carried to him, left many days with him, he audited and allowed <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſame in Mr. <hi>Roberts</hi> his preſence, and no exception taken to them. But <hi>Creſſet</hi> never heard c<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> word from Lord <hi>Roberts</hi> after that time, or could receive one penny of mo<g ref="char:EOLhyphen"/>ney. Thereon</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Mar. 1668."/> The Cauſe ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to hearing by conſent, but the Lord Keeper was pleaſed not to deliver any judgment, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe the Lord <hi>Roberts</hi> had not anſwered.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4 Mar. 1668."/> The Lord <hi>Ro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rts</hi> ſerved with a Letter, deſiring him to appear and anſwer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17 Mar. 1668."/> No anſwer b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng put in, a Subpaena returnable immediate was deſired and denied.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 Mar. 1668."/> The Lord K<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>per writ a ſecond Letter to the Lord <hi>Roberts</hi> to appear and anſwer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25 Mar. 1669."/> Lord <hi>Robert</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Anſwer came in, and therein ſaith, He knew of no Money lent by <hi>Creſſet</hi> to his Son, bel<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ves <hi>Creſſet</hi> had no Eſtate of his own to lend, nor Credit to borrow any conſi<g ref="char:EOLhyphen"/>derable ſum <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others, nor believed that he had ſold Land to pay Mr. <hi>Roberts</hi> Debt; ſaith, he was his Sollic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tor, had received Gratification ſutable to his deſert, and made great advantage of the ſaid <hi>Robe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Roberts</hi> imploy, and been enabled thereby to purchaſe Lands, and heard ſome of <hi>Bodvell</hi>'s D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bts remained unpaid.</p>
+            <p>This Anſwer cauſed the Perſons of whom the ſaid <hi>Creſſet</hi> had borrowed Money for the ſaid <hi>Robert Roberts</hi> to ſuſpect he deſigned to defraud them, and made them ſue him; when as the ſaid <hi>Creſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to that day had never received directly or indirectly one penny, either of the principal Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey borrowed for him, or Intereſt, or for Law-charges, or for all his labour and pains, ſix years Sollicitation, or ſo much as a mourning-Ring at <hi>Bodvell</hi>'s Funeral; but was really above 6000 <hi>l.</hi> out of purſe for Principal, Intereſt, and Law-charges.</p>
+            <p>Upon this Anſwer <hi>Creſſet</hi> writ to Mr. <hi>Roberts</hi> to know the meaning thereof, and deſired to be vindicated from the Aſperſions caſt upon him thereby, in anſwer whereunto he ſent the Letter following.</p>
+            <pb n="3" facs="tcp:171689:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>March <hi>10. 1668.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>SIR,</hi> What occaſioned thoſe reports (your Letter mentioned) I know not, but ſince the untruth a<g ref="char:EOLhyphen"/>riſes even to ſcandal, I think my ſelf obliged to vindicate you by this ſhort Narrative of your actings for me:</p>
+                  <p>When my Father in Law died I retained you in my concern againſt Mr. <hi>Wynn,</hi> which as I take it multiplied into four ſeveral Suits, all which you carried on with unwearied fidelity to the aban<g ref="char:EOLhyphen"/>doning all other buſineſs and Clients whatſoever. Thus I had not only your care but your kindneſs to ſuch a degree as made you inſenſible to others; and as I engroſſed your Pains, ſo had I the command of your Purſe which you moſt freely opened as my buſineſs required: ſuch was my condition at that time as I could not look upon it to be leſs than a providence which directed me to you,<note place="margin">Note, in his Petition to the King and Council, 8 <hi>January</hi> 1674, he calls it his great misfortune that he met with <hi>Creſſet,</hi> becauſe <hi>Creſſet</hi> is no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onger able to furniſh him with money, or forbear what he hath lent to, or paid for him.</note> for it had been impoſſible for me without you to have managed any of thoſe Suits mentioned, in regard of their great charge and expence. I muſt and ſhall ever aſſert that in all my whole buſineſs, you were to me as a Parent, a Counſellor, and a Friend, my advantage was all you aimed at; for you did lay out your ſelf with that frankneſs that till I was your debtor for <hi>2500 l.</hi> you never ſo much as asked me to give you a Bond or any Security. Nay when my buſineſs grew ſo chargeable to you that you were for<g ref="char:EOLhyphen"/>ced to take up great ſumms of Money to carry it on, you would not throw it off nor be diſcou<g ref="char:EOLhyphen"/>raged but borrowed even to the Morgaging your Land for me, and was forced to ſell it at great loſs to ſatisfie part of my Debt: The danger you run was evident to the world; inſomuch that my Lord <hi>Mandevil</hi> has many times wondred, how you would give me ſo much Credit that could not give you any good Security;<note place="margin">Note, the Act took away the 5000 l. given by the will of <hi>Bodwell,</hi> by ſetting aſide that Will, and that was aſſigned to <hi>Creſſet</hi> as well as the 5000 l. ſet<g ref="char:EOLhyphen"/>led by the Deed of the 20. <hi>Feb.</hi> 1639.</note> and ſuch as it was you parted with half of it when the Act of Parliament paſſed for the Preſerving that Eſtate, which with ſo much care and pains you got at laſt ſettled: whatever money you borrowed for me, I had it on as good terms as my Lord Mayor and Aldermen could have took it up, of all which ſummes I am ſtill your Debtor, having not ſatisfied you of one farthing, nor given you any thing as a Reward, though I intended you a thouſand pounds as an Acknowledgments of my Gratitude. To the matter of your Accounts I muſt ſay, that although I ſaw moſt of the money disburſed, and that you gave me the Papers to peruſe before we Endorſed any thing by way of Accounts upon the Deed of Mortgage; yet ſuch has been your Integrity that you have from time to time ſubjected the whole to a Review and new Exa<g ref="char:EOLhyphen"/>mination ſo oft as it has been asked, and particularly of late to Mr. <hi>Nolworthy</hi> for the ſatisfy<g ref="char:EOLhyphen"/>ing of my father: I muſt not only bear you witneſs what you have done, but what you have ſuffered for me, if you require it at my hands: and though it has been to ſuch an extremity as I am almoſt aſhamed to mention, yet could it not alter your Reſpect to my Father againſt whom you put not in your Bill before a year was elapſed for the ſettlement of that Eſtate; and when you did, it was with advice of my <g ref="char:V">Ʋ</g>ncle <hi>Henry Wynne,</hi> who judged that way neceſſary to ſecure the Truſtees. I am ſo much engaged to you, that I can never be weary of doing you Right by thus aſſerting your truth and friendſhip to</p>
+                  <closer>
+                     <signed>Sir, Your moſt affectionate Friend and Servant, <hi>R. ROBERTS.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>For <hi>John Creſſet</hi> 
+                     <abbr>Eſq</abbr>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 Mar. 1669."/> 
+               <hi>Creſſet</hi> filed a General Replication.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31 Mar. 1669."/> A <hi>Subpoena</hi> to rejoin returnable immediate, was awarded againſt the Lord <hi>Roberts,</hi> and the Cauſe to be heard in <hi>Eaſter</hi>-Term, unleſs cauſe ſhewn firſt general Seal.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 Apr. 1669."/> The Lord <hi>Roberts</hi> ſerved therewith.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3 Apr. 1669."/> 
+               <hi>Creſſet</hi> filed Interrogatories, and proceeded to examine Witneſſes to prove all the matters of his Bill, which by Lord <hi>Roberts</hi> his Anſwer he was forced to do, and hath examined all the Perſons of whom he borrowed Money for Mr. <hi>Roberts</hi> to prove the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5 Apr. 1669."/> Ordered, That the ſaid <hi>Creſſet</hi> examine the Defendant <hi>Henry Wynn</hi> as a witneſs in this Cauſe <hi>de bene eſſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 Apr. 1669."/> No cauſe ſhewn againſt going to hearing, as by Certificate appeared.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22 Apr. 1669."/> The Order of the 31. <hi>March</hi> made abſolute, and the Cauſe ordered to be ſet down.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23 Apr. 1669."/> 
+               <hi>Creſſet</hi>'s Counſel attended, but no cauſe againſt the Order of 31 <hi>March</hi> was ſhewn: of which taking Certificate, the cauſe was ſet down to be heard the 17 <hi>May,</hi> 1669. <hi>Sub poena</hi>'s to hear Judgment, returnable the 15<hi rend="sup">th</hi> of <hi>May,</hi> were taken out, and all the Defendants ſerved there<g ref="char:EOLhyphen"/>with.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 Apr. 1669."/> Lord <hi>Roberts</hi> moved for further time to examine his Witneſſes (without giving notice) upon which Motions further time was given, the <hi>Subpoena</hi> returnable immediate to rejoin, ſet aſide, and the ſaid <hi>Creſſet,</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 Apr. 1669."/> Forced to ſerve the Lord <hi>Roberts,</hi> and all other the Defendants <hi>de Novo</hi> to rejoin.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30 Apr. 1669."/> Rules given to rejoin, which all Defendants but Lord <hi>Roberts</hi> did comply with:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3 May 1669."/> Firſt Rule given for Publication.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 May 1669:"/> Lord <hi>Roberts</hi> Craves a Commiſſion to examine Witneſſes into <hi>Cornwall.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 May 1669."/> The firſt Rule had been out, and then no Commiſſion could have been granted, ſo that delay to the laſt minute was uſed.</p>
+            <pb n="4" facs="tcp:171689:3"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13 May 1669."/> 
+               <hi>Creſſet</hi> moved that a ſhort time might be appointed for executing the ſaid Commiſſion and Publication to paſs; (well knowing there could be no material Witneſſes to examine but what were in Town, and therefore propoſed) in Court.</p>
+            <list>
+               <item>Firſt, That if Lord <hi>Roberts</hi> would ſet down in writing what he would examine unto, <hi>Creſſet</hi> would conſent to admit it at hearing, or ſend down a Commiſſion, execute the ſame and return it, ſo as to bring the cauſe to hearing in <hi>Trinity</hi> Term.</item>
+               <item>Secondly, If Lord <hi>Roberts</hi> would put in ſuch an Anſwer as the other Defendants had done (and had promiſed he ſhould do) then <hi>Creſſet</hi> would wave his Depoſitions taken, and examine no more, but go to hearing upon Bill, and Anſwer.</item>
+               <item>Thirdly, If Lord <hi>Roberts</hi> would furniſh <hi>Creſſet</hi> with 3500 <hi>l.</hi> to pay his Debts, he would conſent to account again to any Perſon his Lordſhip ſhould appoint, and ſtay two or three years for the reſt of his Money, his Lordſhip ſecuring what ſhould appear to be due above the ſaid 3500 <hi>l.</hi> which laſt offer was often made before the Suit began, in hope to have preſerved <hi>Bodwels</hi> Eſtate from Sale.</item>
+            </list>
+            <p>The Court ordered Mr. Serjeant <hi>Maynard</hi> to attend his Lordſhip, acquaint him with theſe Offers which to the Court ſeemed fair; his Lordſhips Anſwer was deſired, the Cauſe decla<g ref="char:EOLhyphen"/>red not fit to be delayed, but ordered to be heard the latter end of the then next <hi>Trinity</hi> Term.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 May 1669."/> Mr. Serjeant <hi>Maynard</hi> attended Lord <hi>Roberts</hi> with the ſaid Order, but no Anſwer returned, only that day Lord <hi>Roberts</hi> named Commiſſioners into <hi>Cornwall,</hi> and Craved two Commiſſions more, one into <hi>Carnarvanſhire,</hi> the other into <hi>Angleſey.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21 May 1669."/> 
+               <hi>Creſſet</hi> gave Commiſſioners names into all three Counties, and ſtruck Commiſſioners; deſired the Defendants Clerk ſo to do alſo, but could not obtain the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 May 1668."/> 
+               <hi>Creſſet</hi> moved the Court to call upon Serjeant <hi>Maynard</hi> for to give the Lord <hi>Robert</hi> his Anſwer to the Propoſitions aforeſaid, and to appoint a ſhort time and certain place to execute the Com<g ref="char:EOLhyphen"/>miſſions, and order the Cauſe to be heard in <hi>Trinity</hi> Term following.</p>
+            <p>The Lord <hi>Roberts</hi> his Anſwer was, that he could not go to hearing till he had examined his Witneſſes, unleſs <hi>Creſſet</hi> would admit; that Mr. <hi>Roberts</hi> had received the whole 5000 <hi>l.</hi> in queſtion out of the profits of Mr. <hi>Bodwell</hi>'s Eſtate; prayed time for ſuch Examination till <hi>Michaelmas</hi> Term.</p>
+            <p>Whereupon the ſaid <hi>Creſſets</hi> Councel offered to allow that Mr. <hi>Roberts</hi> had received all the Rents (except of his Mothers Jointure) that had grown due ſince <hi>Bodwells</hi> death; and if the Court at the hearing thought fit that ſhould be deducted out of the 5000 <hi>l.</hi> in Queſtion, then would conſent to examine the Quantum.</p>
+            <p>Secondly, The Court was informed that <hi>Richard Edwards,</hi> who is, and then was the Bai<g ref="char:EOLhyphen"/>liff that let, ſet and received the Rents of all <hi>Bodwell</hi>'s Eſtate was then in Court, and had been examined by <hi>Creſſet</hi> to know what Mr. <hi>Roberts</hi> had received, and was only able to prove the ſame, and therefore his Lordſhip needed no Commiſſion.</p>
+            <p>Thirdly, It was alſo inſiſted on, that the Lord <hi>Roberts</hi> knew of the Aſſignment to <hi>Creſſet,</hi> yet ſuffered Mr. <hi>Roberts</hi> to receive the profits of the Eſtate, delays the hearing, puts no ſtop to the Receipts, and endeavours to deduct what is received out of <hi>Creſſet</hi>'s 5000 <hi>l.</hi>
+            </p>
+            <p>Fourthly, Satisfied the Court that the Commiſſions ought to be made returnable, ſecond return of the then next <hi>Trinity</hi> Term, at which time the ſaid Commiſſions were orde<g ref="char:EOLhyphen"/>red to be made returnable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25 May 1669."/> 
+               <hi>Creſſet</hi> moved for the carriage of the Commiſſions (which by the courſe of the Court he ought to have had) but the ſame was denied.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14 June 1669."/> The Commiſſions were returnable, and then the laſt Rule for Publication was given.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22 June 1669."/> The Rule was out, and Publication by the courſe of the Court paſſed; but on that day Lord <hi>Roberts</hi> gave notice to move for New Commiſſions; Whereupon <hi>Creſſet</hi> with his Counſel waited ſix days together to defend the ſaid motion but the ſame was never made until,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30 June 1669."/> Being the laſt day of the Term the Lord <hi>Roberts</hi> Councel, (when <hi>Creſſet</hi>'s were moſt of them abſent and without their Inſtructions) moved; Whereupon it was Ordered, That Lord <hi>Roberts</hi> ſhould renew the Commiſſions, execute them at time and place to be appointed by the Six Clerks, return them ſo as that Publication ſhould paſs at <hi>Michaelmas,</hi> and the Cauſe be heard in <hi>Michaelmas</hi> Term, 1669. (This <hi>ex parte.</hi>)</p>
+            <p>Firſt General Seal, <hi>Creſſet</hi> moved againſt New Commiſſions for that Publication was paſt duly, and no Affidavit made; that Lord <hi>Roberts</hi> had not ſeen the Depoſitions, or that he had any material witneſſes to examine, both which it was prayed might be made before any new Commiſſion iſſued, and that <hi>Creſſet</hi> might carry the Commiſſion, if any muſt go, it being his due (according to the courſe of the Court.) All theſe things were denied: Commiſſions were granted and made out, time and place to execute them was appointed by Lord <hi>Roberts.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3 July 1669."/> Ordered that the Cauſe be ſet down to be heard in <hi>Michaelmas</hi> Term next before Publica<g ref="char:EOLhyphen"/>tion paſs, to the end the Defendants may be ſerved to hear Judgment before Priviledg of Par<g ref="char:EOLhyphen"/>liament ſhould come in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 July 1669."/> The Cauſe ſet down to be heard 25 <hi>October,</hi> 1669.</p>
+            <pb n="5" facs="tcp:171689:3"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25 July 1669."/> All the Defendants ſerved to hear Judgment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19 Aug. 1669."/> The Commiſſion was executed in <hi>Carnarvanſhire,</hi> where were examined no Witneſſes that did any advantage to the Defendants, ſave only <hi>Richard Edwards</hi> that was in Court when the Commiſſion was moved for, and had been examined to, and proved the ſame in Court before.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 Aug. 1669."/> The Commiſſion was executed in <hi>Cornwal,</hi> and there not one Witneſs examined to any the matters in Iſſue, or concerning this cauſe; ſo that the ſaid Commiſſions were only for delay, and to put the ſaid <hi>Creſſet</hi> to unneceſſary charges.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22 Octo. 1669."/> Lord <hi>Robert</hi> Agent gave notice to move the Court on the 23. of <hi>October,</hi> to put off the hearing for three weeks, on pretence that the Commiſſion executed the 24 <hi>Auguſt</hi> was not returned, which Commiſſion was in his Lordſhips Kinſman's hand, and kept out all that time.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23 Octo. 1669."/> 
+               <hi>Creſſet</hi> waited with his Counſel to defend the Motion, but none was made; Thereupon he fee'd and inſtructed his Counſel for the hearing on Monday the 25 of <hi>October</hi> 1669.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25 Octo. 1669."/> The Cauſe came to hearing, but upon Serjeant <hi>Fountains</hi> Motion the ſame was put off on pre<g ref="char:EOLhyphen"/>tence the ſaid Commiſſion was not returned, and this done without giving the ſaid <hi>Creſſet</hi> his Coſts for his Counſel attending that day, which was never done to any before.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 Nov. 1669."/> The Cauſe was heard by Mr. Juſtice <hi>Rainsford,</hi> who decreed Land to be ſold to pay the ſaid <hi>Creſſet</hi> 5000 <hi>l.</hi> in queſtion, with damages for the ſame from the time it ſhould have been paid, directed an Account to be taken of what Profits was received of <hi>Bodwel</hi>'s Eſtate ſince the Act of Parliament; thoſe to go in firſt place to payment of <hi>Bodwel</hi>'s Debts and Funeral-charges, when thoſe paid, if a Surpluſage remain, the Truſtees to pay the ſame to <hi>Creſſet</hi> in part of his 5000 <hi>l.</hi> and damages and ſell Land for the Remainder, the Maſter to compute Intereſt, ſet out Land to be ſold, appoint time for Sale, if not ſold by time appointed; <hi>Creſſet</hi> to pro<g ref="char:EOLhyphen"/>duce a Purchaſer, and the Maſter to ſell for the moſt that can be gotten; the Truſtees to con<g ref="char:EOLhyphen"/>vey to ſuch Purchaſer; who was thereby decreed to hold and enjoy the Lands bought by them againſt the Truſtees and all the Defendants; and if any Debts or Funeral-charges remain<g ref="char:EOLhyphen"/>ed unpaid, that not to hinder ſelling to pay <hi>Creſſets</hi> 5000 <hi>l.</hi> with Intereſt; there appearing Land ſufficient to pay all: and it was reſerved to the Court to conſider of the ſaid <hi>Creſſet</hi>'s coſt to be given him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 Dec. 1669."/> Lord <hi>Roberts</hi> his Agent petition'd Lord Keeper againſt the Decree as to the point of Inte<g ref="char:EOLhyphen"/>reſt, alleadging, that by the Act payment of Intereſt was not warranted, and that there was but 4000 <hi>l.</hi> due to <hi>Creſſet,</hi> the other 1000 <hi>l.</hi> was given for Sollicitation.</p>
+            <p>Ordered, that the Regiſter attend the Judge to ſettle the Decree, and in the mean time the Inrolment ſtaid.</p>
+            <p>This Petition was preſented after the Order was ſetled and entred, and Sir <hi>Walter Little<g ref="char:EOLhyphen"/>ton</hi> been twice attended, and never objected againſt, till after the Judge was gone in<g ref="char:EOLhyphen"/>to <hi>Northamptonſhire,</hi> ſo that it appeared only a Deſign for delay.</p>
+            <p>For upon this Order (though no proceeding were ſtopt, yet) the Defendants refuſed to at<g ref="char:EOLhyphen"/>tend the Maſter; Whereupon</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2 &amp; 4 Jan. 1669"/> 
+               <hi>Creſſet</hi> petitioned the Lord Keeper to hear the Cauſe himſelf as to that point of Intereſt, and offered to abide his Judgment, but his Lordſhip refuſed ſo to do as he did to hear the Cauſe at firſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 Jan. 1669."/> Mr Juſtice <hi>Rainsford</hi> was attended by Councel on both ſides with the Regiſter, when Lord <hi>Roberts</hi> his Sollicitor put off the hearing till next day.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25 Jan. 1669."/> Lord <hi>Robert's</hi> Agent never came till after the time appointed, when he brought Mr. Juſtice <hi>El<g ref="char:EOLhyphen"/>lis,</hi> but the Judge was gone abroad: having ſuſpended the giving Judgment till 26 <hi>Janua<g ref="char:EOLhyphen"/>ry,</hi> 1669.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 Jan. 1669."/> Lord <hi>Roberts</hi> nor none in his behalf attended as they promiſed the Judge to do: whereupon he confirmed his Decree, but ordered it to be ſtayed a day or two, to ſee if the Lord <hi>Robert's</hi> Agents would attend; of which he cauſed notice to be given.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 Jan. 1669."/> None appearing for the Defendants, the Judge confirmed his Decree, and ordered it to be en<g ref="char:EOLhyphen"/>tred, and ſigned it himſelf; All theſe times <hi>Creſſet</hi> attended with Councel at great Charge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29 Jan. 1669."/> Lord Keeper Signed the Decree in the Lord <hi>Roberts</hi> his Agents preſence, who com<g ref="char:EOLhyphen"/>plaining that he was ſurprized, his Lordſhip ordered both ſides to go back to the Judge upon that Point of Intereſt; in the mean time the Decree to be depoſited in Mr. <hi>Dugdale</hi>'s hand.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31 Jan. 1669."/> The Judg being attended by both ſides declared the Decree to be according to his ſenſe, and nothing but what was juſt; but finding what troubles the ſaid <hi>Creſſet</hi> was in, adviſed him to let the Decree be altered, and made to pay Intereſt only for 4000 <hi>l.</hi> becauſe in the Ac<g ref="char:EOLhyphen"/>count there was mention of 1000 <hi>l.</hi> given for 3 years and halfs Sollicitation, and ſuch Intereſt to begin from the time of the Act of Parliament only, which done there could be no manner of Objection made againſt it by the Lord <hi>Roberts,</hi> but declared he would not make that alte<g ref="char:EOLhyphen"/>ration without the ſaid <hi>Creſſets</hi> conſent, (this in the Preſence of Mr. Juſtice <hi>Ellis</hi>), to which Propoſition <hi>Creſſet</hi> conſented; the Decree was accordingly amended, ſigned, and enrolled,
+<pb n="6" facs="tcp:171689:4"/>
+and Sir <hi>Walter Littleton</hi> attended, who took the Accompt, ſtated <hi>Creſſet</hi>'s 5000 <hi>l.</hi> principal Money decreed him, and the Intereſt thereof to be 5820 <hi>l.</hi> appointed the ſame to be paid the firſt of <hi>July</hi> 1670, and reported no ſurpluſage of Rents or Profits in the Truſtees hands; and at the Lord <hi>Roberts</hi> Councel's inſtance the whole Eſtate was ſet out to be ſold, a particular where<g ref="char:EOLhyphen"/>of was brought in by <hi>Richard Edwards</hi> the Bayliff, with the Names of every Tenant, and the Rents they paid. This when brought in was brought in at much greater rates then let for, (on purpoſe as is conceived) to deceive a Purchaſer, whereupon he was ordred to be exami<g ref="char:EOLhyphen"/>ned upon Oath, and upon his Examination he put in the Margent the true values of every Tenement, theſe Lands or ſo much thereof as would raiſe 5820 <hi>l.</hi> was ordered to be ſold.</p>
+            <p>The reaſon why (as the Maſter in his Report declares) he did not ſet out particular Lands, for the ſaid 5820 <hi>l.</hi> at that time was, becauſe the Lord <hi>Roberts</hi> Counſel inſiſted, That if the Lands free from Incumbrances ſhould be ſold, it would greatly prejudice the Eſtate, and there<g ref="char:EOLhyphen"/>fore they hoped to exchange the Lands in Joynture in <hi>Angleſey</hi> (whereof <hi>Llanigred</hi> Park was a part) for Lands in <hi>Carnarvanſhire,</hi> and ſo to ſell all <hi>Angleſey</hi> Lands, and preſerve the In<g ref="char:EOLhyphen"/>fants Eſtate in <hi>Carnarvanſhire</hi> (being the beſt part thereof) entire, and ſell as little reverſion as could be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> During this Reference Mr. <hi>Roberts</hi> (who had all along before ſeemed to conſent to ſell Land to pay the 5000 <hi>l.</hi> and Intereſt, and had told and writ <hi>Creſſet</hi> word that he being in Poſſeſſion and receiving the Profits of <hi>Bodvell</hi>'s Eſtate ſhould not hurt him, for that he re<g ref="char:EOLhyphen"/>ceived the ſame upon Accompt of an Aſſignment of a Sequeſtration, from his Mother in Law which ſhe had for Arrears of Ally-money pretended to be 6000 <hi>l.</hi> but aſſigned for 3000 <hi>l.</hi>) ſecretly writ the following Letter to Mr. <hi>Hart,</hi> who was the Lord <hi>Roberts</hi>'s Sol<g ref="char:EOLhyphen"/>licitor, and he brought the ſame to Sir <hi>Walter Littleton</hi> who gave it to <hi>Creſſet.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>1 <hi>January</hi> 1669.</date>
+                     </dateline>
+                     <salute>Mr. HART,</salute>
+                  </opener>
+                  <p>MR. <hi>Vermuyden</hi> informs me that Mr. <hi>Creſſet</hi> has preferred before the Maſter of <hi>Chancery</hi> an Accompt in my Name, I do hereby aſſure you he never conſulted me in the Caſe, nor had any direction from me therein, as I am ready to make Oath, wherefore I do utterly proteſt againſt it.</p>
+                  <p>And as to my Receipts of all or any part of <hi>Bodvell</hi>'s Eſtate, I do profeſs I never did it to pay Fu<g ref="char:EOLhyphen"/>neral Charges,<note place="margin">Note, this 5000 <hi>l.</hi> was aſ<g ref="char:EOLhyphen"/>ſigned to <hi>Creſſet</hi> on the 10. of <hi>Mar.</hi> 1663.</note> nor upon any ſuch like trick, but having by Mr. <hi>Bodvell</hi>'s deed of Settlement in Marriage a Title to <hi>5000 l.</hi> portion, I thought my ſelf legally entituled to receive the Rents even before the pretended Will was ſet aſide, and ſince the Act of Parliament mentions that <hi>5000 l.</hi> I continued the ſame, and hope that no Court of Equity will ever make me an Accomptant to the Truſtees ſince I had a legal intereſt to ſuch a ſumm as will clear me upon the ballance of my Re<g ref="char:EOLhyphen"/>ceipts with what was my due.</p>
+                  <p>As to any Defalcations I demand not one penny, for I received many Debts due to Mr. <hi>Bodvell,</hi> and Arrears of Rent,<note place="margin">Mrs. <hi>Vermuyden</hi> had 600 <hi>l. per Annum,</hi> and yet Mr. <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> to leſſen <hi>Creſſet</hi>'s Re<g ref="char:EOLhyphen"/>ceipts would charge him<g ref="char:EOLhyphen"/>ſelf with the Receipt of all the Eſtate.</note> and therefore charge my ſelf with the Receipt of the whole Eſtate in poſſeſ<g ref="char:EOLhyphen"/>ſion ever ſince the Act of Parliament paſſed, being three years this <hi>Chriſtmas.</hi>
+                  </p>
+                  <p>I here ſend you Mr. <hi>Creſſet</hi>'s Defeazance, of which I muſt give you thus the Hiſtory: My Wife and I ſealed an Aſſignment of the Portion to ſatisfie him for <hi>2400 l.</hi> then laid out, I ſigned ſeveral times as he laid out, but my Wife ſigned only the firſt time. Then at <hi>Oxford</hi> when the Parlia<g ref="char:EOLhyphen"/>ment ſate, I gave him a Judgment as farther ſecurity, whereof this is the Defeazance; and me<g ref="char:EOLhyphen"/>thinks thereby he can claim but <hi>3000 l.</hi> for though it be ſaid that to acquit my ſelf from the <hi>6000 l.</hi> I muſt not only pay <hi>3000 l.</hi> but perform certain Articles and Covenants relating to the Deed there<g ref="char:EOLhyphen"/>in mentioned,<note place="margin">Note, It is 3400 <hi>l.</hi>
+                     </note> yet I do ſuppoſe he concluded himſelf thereby to have only remedy upon the Judgment in caſe ſuch Covenants are not performed, and therefore <hi>Bodvell</hi>'s Eſtate not liable at all to pay it, or but the remainder of the Portion in my hands, which accounting my Receipts as aforeſaid cannot be more than <hi>3000 l.</hi> I think.</p>
+                  <closer>
+                     <signed>I am your affectionate friend, R. ROBERTS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11 Febr. 1669."/> Sir <hi>Walter Littleton</hi> made the aforeſaid Report, and it was ordered to be confirmed unleſs Cauſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12 Febr. 1669."/> All Defendants ſerved with that Order.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 Febr. 1669."/> The Report upon hearing of Councel of both ſides was confirmed, and afterwards ſigned and enrolled.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Mar. 1669."/> Lord <hi>Roberts</hi> petitioned the Lord Keeper for a Bill of Review upon the ſame point concern<g ref="char:EOLhyphen"/>ing Intereſt which had been determined upon five hearings as aforeſaid; this contrary to the courſe of the Court was granted; but from the ſixth of <hi>March</hi> to the eighth of <hi>June</hi> following (being three Months) the order never drawn up or entred, nor proceeded upon till</p>
+            <pb n="7" facs="tcp:171689:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9 June 1669."/> When <hi>Creſſets</hi> Money was neer the time of being paid (to wit, the firſt of <hi>July</hi> 1670) then a Bill of Review was exhibited, and the only Errors aſſigned were,
+<list>
+                  <item>Firſt, That Intereſt for 4000 <hi>l.</hi> was decreed, and payment of Intereſt is not war<g ref="char:EOLhyphen"/>ranted by the Act.</item>
+                  <item>Secondly, That the Act ſaith, The 5000 <hi>l.</hi> in queſtion ſhould be paid after the Debt, and Funeral Charges of <hi>Bodvell</hi> were paid; and they appeared not to be paid ſo the 5000 <hi>l.</hi> not due:</item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14 June 1669."/> 
+               <hi>Creſſet</hi> put in his Plea and Demurer as followeth; Demurred for that there was no error in Law in the body of the Decree whereupon a Bill of Review could be brought to ground a Reverſal thereof.</p>
+            <p>Nor was there error ſo much as in fact or judgment in the body of the ſaid Decree, for that it might have ſtood with the Juſtice of the Court to have decreed Intereſt for the whole 5000 <hi>l.</hi> and not for 4000 <hi>l.</hi> only, and that from the time the ſame was payable to <hi>Sarah Roberts,</hi> and not from the time of the Act of Parliament only, inaſmuch as the ſaid 5000 <hi>l.</hi> was not a Duty created by the Act of Parliament, but directed by the ſaid Act to be payed according to the Deed of 20 <hi>Febr.</hi> 1639, which made it a Debt payable when the ſaid <hi>Sarah</hi> attained the age of 21 years, or day of Marriage, both which happened before <hi>Bodvell</hi> died. And howbeit by the Act it was made payable to <hi>Sarah Roberts,</hi> and that after Debts and Funerals paid, yet that did not alter the ſaid <hi>Creſſet</hi>'s title to the ſame, nor ought it to hinder him from receiving the ſame before the payment of the Debts and Funerals, for that in the Act there is a ſaving of all mens Rights and Intereſt either in Law or Equity, and the ſaid 5000 <hi>l.</hi> was Aſ<g ref="char:EOLhyphen"/>ſigned to the ſaid <hi>Creſſet</hi> long before the ſaid Act of Parliament, and was the firſt debt upon the Eſtate.</p>
+            <p>And it was further pleaded that without paying Intereſt it was impoſſible to perform the Act of Parliament, which enacts 5000 <hi>l.</hi> to be payed: The Act was paſſed four years before that time, the Intereſt came to 1200 <hi>l.</hi> beſides all coſts and charges in the recovering the ſame; ſo that to pay 5000 <hi>l.</hi> then was not to pay above 3300 <hi>l.</hi> and the Truſtees might delay pay<g ref="char:EOLhyphen"/>ment till the whole Principal ſhould be drown'd, and the ſaid <hi>Creſſet</hi> only receive the Intereſt of his Money.</p>
+            <p>And that the Debts and Funerals were not paid ought not to hinder Payment of <hi>Creſſet</hi>'s 5000 <hi>l.</hi> for that the Truſtees were intruſted to pay both them and the 5000 <hi>l.</hi> and by their own ſhowing there is Eſtate enough ſo to do, and the not paying them is latches in themſelves whereof they ought to have no benefit.</p>
+            <p>Nor ought the Bill of Review to have been admitted in as much as there were not proper parties thereunto, the Decree being againſt ſix Defendants, five of which abided by the ſame, and the ſixth bringing the Bill of Review alone.</p>
+            <p>Nor ought ſuch Bill of Review to be brought till the Decree be performed and the 5820 <hi>l.</hi>
+paid but not one penny thereof, was either paid or ſecured, therefore prayed a Diſmiſſion with full coſts.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 June 1670."/> Ordered that this Plea and Demurrer be argued on the 8th. of <hi>July</hi> 1670, the Plantiffs to have notice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 July 1670."/> The Cauſe came on when Lord <hi>Roberts</hi> Agents moved to put off the hearing till after <hi>Michael<g ref="char:EOLhyphen"/>mas,</hi> on pretence his Lordſhips Councel were out of Town, when as Mr. Serjeant <hi>Maynard,</hi> Mr. <hi>Collins,</hi> and Mr. <hi>Colthrop,</hi> were all in Court.</p>
+            <p>
+               <hi>Creſſet</hi> finding delay to be the only deſign, did (as he had many times before to his Lord<g ref="char:EOLhyphen"/>ſhips Agents done) offer in Court to take his 5000 <hi>l.</hi> without Intereſt, ſo it might be forthwith paid, and <hi>Bodvell</hi>'s Eſtate be preſerved from ſale; therefore prayed that the hearing might go on, his Councel being all fee'd.</p>
+            <p>The Lord Keeper declared <hi>Creſſet</hi>'s Propoſition was honeſt and fair, and ordered the Lord <hi>Roberts</hi> his Sollicitor to give his Lordſhip notice thereof and bring his Anſwer next day, when if he did not agree thereunto, he would proceed to hear and determine the Cauſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9 July 1670:"/> 
+               <note place="margin">
+                  <hi>Creſſet</hi> having offered to wave Intereſt, might not the L. Keeper as well have ſetled it ſo now, as to diſcharge him from his offer put him to 12 <hi>l.</hi> charges, and then take away his Intereſt with<g ref="char:EOLhyphen"/>out his conſent, and againſt the opinion of all the Jud<g ref="char:EOLhyphen"/>ges, as by the following or<g ref="char:EOLhyphen"/>der he did do.</note> 
+               <hi>Creſſet</hi>'s Counſel was again Fee'd and attended, and the Lord <hi>Roberts</hi> not complying with the Offer, the Lord Keeper diſcharged the ſaid <hi>Creſſet</hi> from the ſame, and proceeded to hearing, but after a full hearing, when ready (as ſuppoſed) to give Judgment, upon the earneſt im<g ref="char:EOLhyphen"/>portunity of the Lord <hi>Roberts</hi> his Counſel, his Lordſhip deferred giving Judgment till the 8th of <hi>November,</hi> 1670. when he declared he would deſire the Aſſiſtance of ſome of the Judges. This Order <hi>Creſſet</hi> could not get paſſed till 6 <hi>November,</hi> 1670. when Lord <hi>Robert</hi>'s Sollicitor would not let that Declaration concerning the Aſſiſtance of the Judges be put in<g ref="char:EOLhyphen"/>to the ſame; of which by Petition the 7<hi rend="sup">th</hi> of <hi>November, Creſſet</hi> gave intimation to his Lord<g ref="char:EOLhyphen"/>ſhip, and prayed Judges might be called to Aſſiſt him; Nevertheleſs</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 Nov. 1670."/> The Lord Keeper heard the Cauſe upon the Plea and Demurrer aforeſaid without any Judges, and without over-ruling the Plea and Demurrer (both which to this day ſtand good) fell upon the Merits of the Cauſe, (for which <hi>Creſſet</hi>'s Counſel was not prepared) and reverſed ſo much of the Decree as concerned ſelling Land to pay Intereſt, but confirmed the Decree in
+<pb n="8" facs="tcp:171689:5"/>
+all other points, and ordered an Account to be taken of all the profits of <hi>Bodvells</hi> Eſtate from the time of his death, and decreed <hi>Creſſet</hi> to find a Purchaſer that ſhould (buy not only Land for payment of his own Debt, but alſo) ſo much as ſhould raiſe Money to pay all <hi>Bodvells</hi> Debts and Funeral-charges mentioned in the aforeſaid Report of the 11. <hi>February,</hi> 1669. and which were not paid, or ſaid therein to be ſecured by Mr. <hi>Roberts;</hi> The Maſter to ſell the Land for the moſt he could get, agree conveyances, and appoint a ſhort time for ſealing the ſame; and if not ſealed by the time appointed, then the Truſtees to pay Intereſt from the time of tendering a Purchaſer; This Order could not begot paſſed till 17. <hi>December,</hi> 1670. when my Lord was attended to ſettle the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17 Dec. 1670."/> The Reference was transferred to Sir <hi>John Coell,</hi> (Sir <hi>Walter Littleton</hi> being dead) and his Lord<g ref="char:EOLhyphen"/>ſhip ordered that <hi>Creſſet</hi> ſhould have Intereſt for his whole 5000 <hi>l.</hi> and that the Deeds con<g ref="char:EOLhyphen"/>cerning the Land that ſhould be ſold, ſhould be delivered to the Purchaſer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7 Jan 1670."/> Sir <hi>John Coell</hi> made his Report that he had heard both ſides ſeveral days, and found by the Account annexed, (Copies whereof Lord <hi>Roberts</hi> his Agents had, were heard thereupon and took no exception unto) that there was ſufficient raiſed to pay all <hi>Bodvells</hi> Debts and Fu<g ref="char:EOLhyphen"/>neral-charges, and all the Arrears of <hi>Hern</hi>'s Annuity, due at <hi>Chriſtmas</hi> then laſt paſt, with a Surpluſage of 791 <hi>l.</hi> which he allowed Mr. <hi>Roberts</hi> for Coſts, and this by the Profits due from the time of <hi>Bodwells</hi> death till <hi>Auguſt</hi> 1670.</p>
+            <p>And that <hi>Creſſet</hi> had produced a Purchaſer to buy the Lands in the Shcedule annexed, (whereof <hi>Bodvell</hi> Seat and <hi>Lanigred</hi> Park was a Part) that offered 13 years Purchaſe for what was in poſſeſſion, 7 years for Reverſion after one Life, 5 for Reverſion after two lives, and preſſed him to ſell. But upon Lord <hi>Roberts</hi> his Council's deſire (to have ten days time to ſee if his Lordſhip would pay the Money or produce a Purchaſer to give more than <hi>Creſſets</hi> Purcha<g ref="char:EOLhyphen"/>ſer offered or to buy other Lands,) he had given him 14 days time, when, if the money were not paid, or other Purchaſers to buy other Land or give more for theſe Lands produced, he would proceed to ſell and ſettle the Conveyances.</p>
+            <p>
+               <note place="margin">Note.</note>By Sir <hi>Walter Littletons</hi> Report dated 11 <hi>Feb.</hi> 1669. It appears they deſigned that <hi>Lanigred</hi> Park ſhould be ſold and <hi>Bodvell</hi> was put in by <hi>Creſſet.</hi>
+            </p>
+            <list>
+               <item>Firſt, becauſe there was no other Eſtate in poſſeſſion that was free from Incumbrances.</item>
+               <item>Secondly, in hopes the Truſtees would pay the Money decreed rather then ſuffer the Principal Seat to be Sold, <hi>Creſſet</hi> neither deſigning nor deſiring to have it (as by the following account will appear.)</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 Feb. 1670."/> Sir. <hi>John Coell</hi> makes a Second Report and certifies that the 20 <hi>January</hi> Lord <hi>Roberts</hi> his Council attended him, told him his Lordſhip was loth to have <hi>Bodvells</hi> houſe ſold, but had given no order to pay any money, or could produce any other Purchaſer, either to buy other Land, or give more for the Lands mentioned in his former Report; but certifies further that upon the great Importunity of Lord <hi>Roberts</hi> his Council, <hi>Creſſet</hi> offered for the Preſervation of the Eſtate, that if the Lord <hi>Roberts</hi> would pay him 1000 <hi>l.</hi> the middle of <hi>Febr.</hi> and ſecure the reſt (with intereſt from the time the Court ſhould direct) to be paid at Midſummer, the ſaid <hi>Creſſet</hi> would accept the ſame, or if the Lord <hi>Roberts</hi> would clear <hi>Angleſey</hi> Lands from all Incumbrances (as he propoſed to Sir. <hi>Walter Littleton</hi>) and exchange thoſe Lands in Join<g ref="char:EOLhyphen"/>ture there, and give Mrs. <hi>Bodwell</hi> Lands in <hi>Carnarvanſhire</hi> for them, he would buy the Lands in <hi>Angleſey</hi> and leave <hi>Bodvell,</hi> which offer they prayed 14 days time for his Lordſhip to an<g ref="char:EOLhyphen"/>ſwer unto, and did not doubt to receive the ſame, which time was granted, and elapſed, and new Summons iſſued, but the Defendants did not attend, therefore he had ſold the Lands in his former Report mentioned to the perſon, and at the Prizes therein expreſſed, and would ſettle Conveyances, allow the ſame under his hand; and appoint ſhort time for the execution thereof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 Feb. 1670."/> Theſe two Reports confirmed, unleſs upon Notice Good cauſe within Eight days after ſhould be ſhown to the Contrary.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12 Feb. 1670."/> The Defendants were ſerved with notice thereof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16 Feb. 1670."/> Exceptions to the ſaid Reports were filed.</p>
+            <p>Firſt, becauſe the Maſter ought to have Reported what or how much had been Received before the Act, and what and how much ſince the Act of Parliament and of whom, and for what.</p>
+            <p>Secondly, Becauſe the Maſter appointed 5000 <hi>l.</hi> of the Purchaſe-Money to be paid to the ſaid <hi>Creſſet,</hi> intimating that the ſaid Mr. having reported a Surpluſage received, over and a<g ref="char:EOLhyphen"/>bove what would pay <hi>Bodvells</hi> debts and funeral-charge, he ſhould have ſaid how much ſuch Surpluſage was and in whoſe hands, and ordered the ſame to have been paid in part of the 5000 <hi>l.</hi> to have ſaved ſo much of the Eſtate from ſale, and the Mr. ought not to have allowed of a Purchaſer, the Lands being much undervalued, no allowance made for 2000 <hi>l.</hi> worth of Wood, nor care taken for the Preſervation of the Principal Seat of the Family, and place of Re<g ref="char:EOLhyphen"/>ſidence of the Wife and Children of the ſaid <hi>Rob. Roberts,</hi> who on the purchaſe will be turned out of doors.</p>
+            <pb n="9" facs="tcp:171689:5"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 Feb. 1670"/> Upon arguing the ſaid Exceptions by Councel on both ſides before the Lord Keeper; his Lord<g ref="char:EOLhyphen"/>ſhip held them inſufficient and over-ruled the ſame, and confirmed the Reports, all the Ex<g ref="char:EOLhyphen"/>ceptions being grounded upon Miſtakes, and fully Anſwered by the Reports themſelves, and the Court confirmed the Sale. But with this, that the Mr. ſhould examine whether there were any Groſs Timber on <hi>Bodwells</hi> Demeſnes, and not valued to, or paid for by the Purchaſer; if there were, then Lord <hi>Roberts</hi> to have time till Midſummer to cut it and carry it away, leaving ſufficient boots of all ſorts, and for the Ornament and defence of the Man<g ref="char:EOLhyphen"/>ſion houſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Mar. 1670."/> It was ordered that the ſaid <hi>Creſſet</hi> ſhould have Intereſt for 5000 <hi>l.</hi> from the time when he firſt tendred his Purchaſer, That the writings concerning the Lands ſold alone, and true Copies of ſuch as concern the Lands ſold with others, be delivered to the Purchaſer; And Sir. <hi>John Coell</hi> to compute the Intereſt,<note place="margin">Note, the Purchaſer <hi>Ro<g ref="char:EOLhyphen"/>bert Stapleton</hi> 
+                  <abbr>Eſq</abbr> was a Truſtee for <hi>Creſſet.</hi>
+               </note> and ſettle the payments thereof, according to the Decree of the 8. of <hi>November</hi> 1699. and the Purchaſer Decreed the poſſeſſion of the Lands ſold, and to en<g ref="char:EOLhyphen"/>joy the ſame to him and his Heirs and Aſſignees for ever, againſt the Lord <hi>Roberts,</hi> and all o<g ref="char:EOLhyphen"/>ther the Defendants in the cauſes, he paying the ſaid <hi>Creſſet</hi> 5000 <hi>l.</hi> out of the purchaſe Mo<g ref="char:EOLhyphen"/>ney and the other 126 <hi>l.</hi> remained, &amp;c. thereof as Sir <hi>John Coell</hi> ſhould direct.</p>
+            <p>All theſe Orders, Decrees, and Reports, Accounts and Rentalls being ſigned and Inrolled upon ſuch mature deliberation as aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21 Mar. 1670."/> 
+               <hi>John</hi> Lord <hi>Roberts</hi> (Sir. <hi>Richard</hi> and <hi>Henry Wynn</hi> 
+               <abbr>Eſq</abbr>) appealed from them to the houſe of Lords, and for ground of Relief inſiſted upon the ſame Reaſons contained in the Exceptions to Sir. <hi>John Coells</hi> Report.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 Mar. 1670."/> 
+               <hi>Creſſet</hi> Anſwered the ſaid Appeal ſetting forth the matters aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1 Apr. 1671."/> The Cauſe was fully heard at the bar and diſmiſs't <hi>Nemine Contradicente,</hi> with this ſpecial direction that it ſhould be without prejudice to the ſaid <hi>Creſſets</hi> going back into Chancery for his Coſts of Suit, which by the Decree of the 8. of <hi>November</hi> 1669, was reſerved to the Conſi<g ref="char:EOLhyphen"/>deration of that Court.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note, </seg>
+               </label> 
+               <hi>Creſſet</hi> exhibited a Counter Appeal to have had Intereſt money from the time of Mr. <hi>Bodwells</hi> death according to the Decree, which Appeal for quietneſs ſake he waved at the Bar and would not ſuffer to be opened. Thereupon that alſo was diſmiſs't.</p>
+            <p>After theſe diſmiſſions Sir <hi>John Coell</hi> was daily addreſſed unto to ſettle Conveyances and compute and ſet out Lands for Intereſt according to the order of the 6 <hi>March</hi> 1670. who af<g ref="char:EOLhyphen"/>ter above 20 times being attended by both Sides made the Report following.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 Feb. 1670."/> Firſt, that there was no Groſs Timber on <hi>Bodvells</hi> demeſnes but what was neceſſary for Boots and Ornament to the houſe, and that <hi>Creſſet</hi> had allowed for it in his former purchaſe.</p>
+            <p>Secondly, that he had computed Intereſt for the 5000 <hi>l.</hi> for one year which comes to 300 <hi>l.</hi> and ſet out and ſold Land of 13 <hi>l.</hi> 31 <hi>s.</hi> 4 <hi>d. per annum</hi> and the 126 <hi>l.</hi> above the 5000 <hi>l.</hi>
+in the laſt purchaſe Money in Satisfaction for the ſame.</p>
+            <p>Thirdly, that he had allowed of Conveyances according to the Lord <hi>Roberts</hi> and the other Defendants Council's own amendments, and appointed them to be executed by <hi>John</hi> Lord <hi>Roberts</hi> Sir <hi>Richard Wynn, Henry Wynn, Robert</hi> and <hi>Sarah Roberts,</hi> when tendred to them and <hi>Sarah Roberts</hi> and her Husband to levy a Fine of the Land ſold to the uſe of the aforeſaid <hi>Robert Stapleton</hi> and his Heirs for ever, and all the Defendants to make fur<g ref="char:EOLhyphen"/>ther Aſſurance within 7 years if needful for aſcertaining the Title and freeing the Lands ſold from <hi>Bodvells</hi> Incumbrances. And that <hi>Lanigred</hi> Park ſhould be liable after Mrs. <hi>Bodvells</hi> life to pay to <hi>Joſeph Hern</hi> or his Aſſignes (during his wifes life) what can be made thereof to<g ref="char:EOLhyphen"/>wards raiſing the 100 <hi>l. per annum</hi> Annuity which that Park and three Townſhips in <hi>Carnar<g ref="char:EOLhyphen"/>vanſhire</hi> are obliged to pay: And that all the Arrears of the ſaid 100 <hi>l. per annum</hi> which ſhould grow due before Mrs. <hi>Bodvell's</hi> death, ſhould be paid out of the ſaid Townſhips and <hi>Lanigred</hi> Park not be liable to the ſame, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13 May 1671."/> This Report confirmed unleſs Cauſe within 6 days after Notice be ſhown to the contrary.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15 May 1671."/> Notice being given they deſired ſome Amendments in the Report and Conveyance, and then promiſed to conſent to confirm it, which amendments <hi>Creſſet</hi> agreed unto.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7 June 1671."/> The laſt Order made Abſolute and the Report confirmed</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11 June 1671."/> For the Satisfaction of the Court Sir. <hi>John Coell</hi> upon an Order to him directed Reports as followeth.</p>
+            <p>That all along Pending the Reference before him both before and after the Appeal to Par<g ref="char:EOLhyphen"/>liament, and after the diſmiſſion out of Parliament when he was attended to ſettle Conveyances, <hi>Creſſet</hi> did in his preſence offer the Defendants that if they would ſet out Lands in lieu of <hi>Bodvell</hi> of the ſame yearly value, and ſell the other Lands in his purchaſe for the value they were let for, to preſerve <hi>Bodvell</hi> houſe and demeſnes from Sale and to keep the Eſtate in <hi>Carnarvanſhire</hi> in<g ref="char:EOLhyphen"/>tire. He would exchange the ſaid <hi>Bodvell</hi> houſe for ſuch other Lands as they ſhould ſet out; but that offer would not be accepted nor would they ſet out other Lands, whereupon the Con<g ref="char:EOLhyphen"/>veyances paſſed as the Defendant amended them. The Report was made and entred, after which ſome Amendments were deſired to be made. And the Defendants Councel and their
+<pb n="10" facs="tcp:171689:6"/>
+Agents agreed if ſuch Amendments were made they would not oppoſe the Confirmation of the Report.</p>
+            <p>Whereupon <hi>Creſſet</hi> conſented, and the Report was ſent for from of the file; and with the Conveyances were amended in all points deſired.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 June 1671."/> The Regiſters certifie no Exceptions were filed to the aforeſaid Reports.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24 June 1671."/> The Regiſters make the like Certificate; Whereupon the Decree and Report were drawn up, ſigned and enrolled, and the Defendants ſerved with a writ of Execution thereof, and deſired to ſeal, which none would do but <hi>Henry Wynn,</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>Mr. <hi>Roberts</hi> (who all along had hindred <hi>Bodvell</hi> from being left out of the Conveyances, and promiſed to ſeal,) and his Lady declared they would not ſeal till my Lord <hi>Roberts</hi> had ſealed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 June 1671."/> A Meſſenger was ſent expreſs (being an Atturney at Law) to ſerve <hi>John</hi> Lord <hi>Roberts</hi> in <hi>Cornwall,</hi> but was not admitted to his Lordſhip. He tendred the Writ of Execution and Con<g ref="char:EOLhyphen"/>veyances in his Hall, but no ſervant would receive them.</p>
+            <p>Complaint thereof being made to the Court, it was ordered,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12 July 1671."/> That ſerving Lord <hi>Roberts</hi> Clerk in Court ſhould be deemed a good ſervice of him, and that all Proceſs of contempt returnable immediate ſhould iſſue againſt <hi>Robert</hi> and <hi>Sarah Roberts</hi> to enforce them to execute the Conveyances. And that an Injunction ſhould iſſue againſt the Tenants to enjoyn them to attorn and pay their Rents to <hi>Stapleton.</hi>
+            </p>
+            <p>And it was further ordered, That Sir <hi>John Coel</hi> ſhould tax <hi>Creſſet</hi>'s Coſts of Suit, unleſs cauſe ſhown the then next third general Seal, Lord <hi>Roberts</hi> Councel deſiring to be heard to that point only.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18 July 1671."/> Lord <hi>Roberts</hi> his Clerk in Court was ſerved with the Decree, and an Attachment returnable immediate iſſued againſt <hi>Robert</hi> and <hi>Sarah Roberts</hi> for their contempts.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 July 1671."/> 
+               <hi>Creſſet</hi> (having attended with Councel three days of motions upon notice given him that the Lord <hi>Roberts</hi> would move againſt the Order of the 12th. of <hi>July</hi> 1671, and no motion be<g ref="char:EOLhyphen"/>ing made, he then moved the Court; and it was Ordered, That tendering the Decree and Conveyances at the Lord <hi>Roberts</hi> houſe, ſhould be a good ſervice upon his Lordſhip; and if his Lordſhip did not ſeal, then upon Affidavit thereof a Sequeſtration ſhould iſſue without further motion againſt <hi>John Bodvell</hi>'s Eſtate, and a Writ of Aſſiſtance to put the Purchaſer in poſſeſſion of the Lands ſold, and that the Maſter ſhould proceed to tax <hi>Creſſet</hi> his Coſts ac<g ref="char:EOLhyphen"/>cording to the courſe of the Court.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Aug. 1671."/> A Proclamation of Rebellion iſſued againſt <hi>Robert</hi> and <hi>Sarah Roberts.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 Aug. 1671."/> The Lord <hi>Roberts</hi> was attended in <hi>Cornwall</hi> by an expreſs Meſſenger, and then ſealed the Con<g ref="char:EOLhyphen"/>veyances, which done, Mr. <hi>Roberts</hi> and his Lady had the Conveyances tendered to them again to ſeal, which they both refuſed to do, on pretence that <hi>Bodvell</hi>'s Houſe and Demeſnes were conveyed thereby.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26 Aug. 1671."/> 
+               <hi>Creſſet</hi> went into <hi>Carnarvonſhire</hi> to ſerve Sir <hi>Richard Wynn;</hi> when he came there, met with a Letter from Mr. <hi>Roberts</hi> conjuring the ſaid Sir <hi>Richard</hi> not to ſeal, which ſo far pre<g ref="char:EOLhyphen"/>vailed as that Sir <hi>Richard</hi> would not execute the ſaid Deeds till Attachments were ſent for from <hi>London</hi> and executed upon him, which coſt the ſaid <hi>Creſſet</hi> (together with his Journey) above 100 <hi>l.</hi> The Letter was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21 Aug. 1671."/> 
+                     <hi>SIR,</hi> How my Father who occaſioned all this ſale and refuſed to let Mr. <hi>Creſſet</hi> have <hi>3000 l.</hi> worth of Land, ſhould now ſeal away the value of <hi>8000 l.</hi> and of both the Manſion-houſes with the beſt of all the Lands, and the very name of the Family, is a thing ſo unjuſt and ſhameful, that it is the talk and wonder of every body; you are the chief of my Wife's Family, and if you now become the preſerver of her and her Eſtate, it will make the world honour you, and us ever to ſerve you; and be ſure of this that at <hi>Michaelmas</hi>-Term next his Money ſhall be paid him, and ſo you ſhall not have ſo much as the trouble of a Suit, and it had been now ready, if any one could but have expected ſuch a compliance of my Father, my Wife, and I never ſhall ſeal, and therefore think not, Sir, we can ever aſſent, (as you were informed.) We abhor to ſell away the name of <hi>Bodvell.</hi> My Wife gives you her humble ſervice, and thanks, and both of us are obliged beyond expreſſion of</p>
+                  <closer>
+                     <signed>Your moſt humble Servant &amp; Couſin, R. ROBERTS.</signed>
+                  </closer>
+                  <trailer>For Sir <hi>Richard Wynn</hi> Baronet, at <hi>Gwidder</hi> in <hi>Carnarvonſhire.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Creſſet</hi> having a Coppy of the aforeſaid Letter from Sir <hi>Richard Wynn,</hi> immediately writ to <hi>London</hi> to Mr. <hi>Roberts,</hi> (who had aſſured him before his going out of Town, that he would give him no hinderance in the Country.) In anſwer to which Letter Mr. <hi>Roberts</hi> writ to him, dated the 29th. of <hi>Auguſt</hi> 1671, wherein among other things he uſeth this Expreſſion:</p>
+            <p>
+               <hi>But ſince Sir</hi> Richard Wynn <hi>ſtops his hand upon my account, I ſhall propoſe this to you that you preſs him not to ſeal, for if I do not ſhortly, either pay the whole ſumm of the Decree, or for all the</hi> Carnarvonſhire <hi>Lands I will be bound to joyn in the conveyance,</hi> &amp;c. <hi>This you may conſent to without prejudice,</hi> &amp;c.</p>
+            <pb n="11" facs="tcp:171689:6"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3 Nov. 1671."/> A Commiſſion of Rebellion Iſſued againſt the ſaid <hi>Robert</hi> and <hi>Sarah Roberts.</hi>
+            </p>
+            <p>Sir <hi>John Coel</hi> being attended to tax Coſts according to the Order of the 26th. of <hi>July</hi> the Defendants got time to move the Court to know whether Coſts of the Appeal in Parliament ſhould be taxed, and they gave <hi>Creſſet</hi> ſix ſeveral Notices to move the ſame, at which times he attended with Councel at great charge, but they never moved. Whereupon, <milestone type="tcpmilestone" unit="unspecified" n="15 Febr. 1671."/> 
+               <hi>Creſſet</hi> moved to know his Lordſhips pleaſure in that point, when it was ordered that the Ma<g ref="char:EOLhyphen"/>ſter ſhould proceed to tax the Coſts in general, unleſs upon notice good cauſe ſhould be ſhewn the then next ſeal.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16 Febr. 1671."/> The Defendants were ſerved with that Notice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22 Febr. 1671."/> Councel on both ſides attending the Court put off the motion till after the laſt ſeal, when his Lordſhip declared he would be attended with, and peruſe all the Orders made in the cauſe, and then would ſettle Coſts. After which Seals, <hi>Creſſet</hi> endeavoured, but could get no day ap<g ref="char:EOLhyphen"/>pointed for attending his Lordſhip for that purpoſe, though he often petitioned for the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22 Feb. 1671."/> A Serjeant at Arms was awarded againſt <hi>Robert</hi> and <hi>Sarah Roberts.</hi>
+            </p>
+            <p>Mr. <hi>Roberts</hi> and his Lady their pretence for not ſealing, being becauſe <hi>Bodvell</hi>'s Houſe was ſold, and promiſing to ſeal if they might have that again: At their deſire <hi>Creſſet</hi> referred it to the preſent Lord Keeper, and Sir <hi>Thomas Chichly</hi> their own Uncle (both of their Nomi<g ref="char:EOLhyphen"/>nation) to ſettle what ſhould be paid or given him in exchange for the ſame, the Referees met,<note place="margin">Note, this agreement was to be executed on or before the 25 of <hi>March</hi> 1671.</note> made an agreement, to which <hi>Creſſet</hi> conſented, and they promiſed to perform, thereby put <hi>Creſſet</hi> to great charge in getting Conveyances drawn for the Execution thereof. But Mr. <hi>Roberts</hi> and his Lady never performed the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18 May 1672."/> The Serjeant at Arms returned that <hi>Robert</hi> and <hi>Sarah Roberts</hi> lodged in <hi>Whitehall,</hi> and therefore he could not attach them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 May 1672."/> 
+               <hi>Creſſet</hi> moved again for Coſts when it was ordered that Sir <hi>John Coel</hi> ſhould tax Coſts, ſince the Decree againſt <hi>John</hi> Lord <hi>Roberts,</hi> and that a Sequeſtration ſhould iſſue againſt <hi>John Bodvell</hi> and <hi>Robert Roberts</hi> their real and perſonal Eſtate for the contempt of the ſaid <hi>Roberts</hi> and <hi>Sarah</hi> his Wife, unleſs cauſe ſhould be ſhewed the then next Seal (though by Affidavit it then appeared) they had due notice of that days motion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23 May 1672."/> Cauſe coming to be ſhewn, the Lord Keeper gave my Lord <hi>Roberts</hi> further time till the firſt day of the then next Term, peremptorily to ſhew cauſe againſt his paying of Coſts, but diſal<g ref="char:EOLhyphen"/>lowed the Reaſons offered by Mr. <hi>Roberts</hi> and his Lady, their Councel againſt the Sequeſtra<g ref="char:EOLhyphen"/>tion; and Ordered that the ſame ſhould iſſue.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7 June 1672."/> Upon the Lord <hi>Roberts</hi> motion, it was Ordered, That no Coſts ſhould be taxed againſt him perſonally, but that <hi>Creſſet</hi> ſhould have all his Coſt of Suits taxed, and Sir <hi>John Coel</hi> to tax them accordingly, the ſame to be paid out of <hi>Bodvell</hi>'s Eſtate, unleſs on notice to <hi>Robert Ro<g ref="char:EOLhyphen"/>berts</hi> and his Truſtees, good cauſe to the contrary ſhould be ſhewn the then next day of motion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13 June 1672."/> Upon hearing Councel on both ſides, it was Ordered, That <hi>Creſſet</hi> ſhould have his Coſts re<g ref="char:EOLhyphen"/>lative to theſe Suits both before and after his Decree, <hi>Coel</hi> to tax them, and to be paid out of <hi>Bodvell</hi>'s Eſtate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5 July 1672."/> The Lord <hi>Roberts,</hi> and <hi>Robert</hi> and <hi>Sarah Roberts</hi> moved, whereupon notwithſtanding all the former Orders, the Court Ordered <hi>Creſſet</hi> ſhould have Coſt taxed ſince the Decree only, and to be paid as aforeſaid: Which Order they kept from paſſing untill</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15 Aug. 1672."/> When the Court Ordered on <hi>Creſſet</hi>'s motion, That Mr. <hi>Flatman</hi> the Defendant's Clerk in Court ſhould bring back the Order, paſs it, and attend the Maſter therewith: Which done,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 Aug. 1672."/> The Maſter taxed 250 <hi>l.</hi> Coſts only,<note place="margin">Note, that one motion might have ſetled theſe Coſts as well as 15, and ſaved the charge of the reſt of the Motions, Notices, and Affi<g ref="char:EOLhyphen"/>davits of giving notice of thoſe Motions, and drawing up thoſe Orders.</note> which was very little more than paid the charges of the ſeveral motions made for Settlement thereof.</p>
+            <p>The Sequeſtration being iſſued, and one <hi>Richard Edwards</hi> appointed one of the Sequeſtra<g ref="char:EOLhyphen"/>tors, he hath ever ſince received the Rents of the Eſtate ſequeſtred, and refuſed to pay the ſame to Mr. <hi>Roberts</hi> without <hi>Creſſet</hi>'s conſent, which Mr. <hi>Roberts</hi> in <hi>September</hi> 1672, prevailed with <hi>Creſſet</hi> to give for that year upon his promiſe that if he did not end the difference betwixt him and the ſaid <hi>Creſſet</hi> between that and <hi>Chriſtmas,</hi> that then he and his Lady would ſeal the Conveyances in queſtion, (the ſaid <hi>Creſſet</hi> giving him two years time to redeem <hi>Bodvell</hi>'s ſeat at the price the Lord Keeper, and Sir <hi>Thomas Chichly</hi> had valued the ſame at upon the refer<g ref="char:EOLhyphen"/>ence in <hi>Febr.</hi> 1671,) and promiſing further that He would repay the ſaid money which he ſhould ſo receive of the ſaid <hi>Edwards.</hi>
+            </p>
+            <p>
+               <hi>Creſſet</hi> relying upon this promiſe got Writings drawn for that purpoſe, which he carried to Mr. <hi>Roberts</hi> in <hi>Decemb.</hi> 1672, he kept, but did not execute the ſame, but when he received them, he promiſed that he would forthwith go to his Father into <hi>Cornwall,</hi> and ſubmit him<g ref="char:EOLhyphen"/>ſelf to his pleaſure, whereby he doubted not to regain his favour, and capacitate himſelf to end the ſaid <hi>Creſſet</hi>'s buſineſs; if not, he would certainly at his return ſeal the Deed in queſti<g ref="char:EOLhyphen"/>on. This Journey he took accordingly, but it proved ineffectual; nevertheleſs to this day he hath not ſealed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="In 1673."/> 
+               <hi>Edwards</hi> received the Rents of the Sequeſtered Lands again, and refuſed to pay them to Mr. <hi>Roberts</hi> as before, until ſuch time as he prevail'd with <hi>Creſſet</hi> for another direction for that purpoſe, the which <hi>Creſſet</hi> was perſwaded to grant.</p>
+            <pb n="12" facs="tcp:171689:7"/>
+            <list>
+               <item>Firſt, Becauſe he was unwilling to be an Accomptant to the ſaid <hi>Roberts,</hi> or to the Court when the ſaid Decree ſhould be performed.</item>
+               <item>Secondly, Upon Mr. <hi>Roberts</hi> his ſecuring the 250 <hi>l.</hi> Coſt taxed as aforeſaid by a Bill of ſale of the Goods in <hi>Bodvell</hi>'s Houſe, dated the 19th. of <hi>March</hi> 1672, and a Bill un<g ref="char:EOLhyphen"/>der hand and ſeal to <hi>Edwards</hi> to pay him out of that years rents, 130 <hi>l.</hi> to make up the ſaid 250 <hi>l.</hi>
+               </item>
+            </list>
+            <p>But the ſaid <hi>Roberts</hi> having got <hi>Creſſet</hi>'s Letter, never acquainting the ſaid <hi>Edwards</hi> that he was to pay any part thereof to <hi>Creſſet,</hi> got the whole Rents out of his hand before due, ſo that nothing was paid to <hi>Creſſet</hi> that year.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Febr. 1673."/> Mrs. <hi>Vermuyden</hi> who had a Joynture in moſt of the Lands ſold to <hi>Stapleton</hi> happen'd to die, which <hi>Creſſet</hi> well hoped might have been of ſome advantage to him in his Purchaſe which had coſt him ſo dear, and to help make up the great loſs he had ſuſtained, and the vaſt charge of the Suit aforeſaid, but the contrary hath happened, as by the following Narrative will appear. For in</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="April 1674."/> Mr. <hi>Roberts</hi> acquainted <hi>Creſſet</hi> that his Lady had now a mind to have all the Lands again that were ſold, intimating they were too good a bargain by the life falling, (never conſidering that ſhe might have lived twenty years,<note place="margin">Note, This was never deſired while it was a Re<g ref="char:EOLhyphen"/>verſion.</note> and that the hazard was reciprocal both to the Ven<g ref="char:EOLhyphen"/>der and the Purchaſer) <hi>Creſſet</hi> deſiring if poſſible to preſerve their Eſtate, conſented that they ſhould have all again, paying thirteen years purchaſe for the Poſſeſſion, and ſeven for the Re<g ref="char:EOLhyphen"/>verſion after one life (which rate he allowed when he purchaſed) and that at the ſame yearly va<g ref="char:EOLhyphen"/>lue he bought them at, or that they paying him the principal Money he paid, and his Intereſt, and his Charges of the Suits; Mr. <hi>Stapleton</hi> ſhould re-convey to them (though the Lands are worth more) neither of theſe Offers were grateful, but a Reference was propoſed to the Right Honorable the now Lord Keeper of the Great Seal of <hi>England;</hi> the which <hi>Creſſet</hi> conſen<g ref="char:EOLhyphen"/>ted unto, upon Condition that he might have Security from them to abide his Award; My Lord Keeper being attended, no Security could be given, Therefore by his Lordſhips advice,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18 May 1674."/> An Order by conſent obliging both parties to abide, his Award was drawn up, agreed, and entred, his Lordſhip was to be attended, each party to make his Propoſals in writing; his Lordſhip to conſider them and hear both parties, and thereupon to perſwade to an Accom<g ref="char:EOLhyphen"/>modation, which if he could not do, then his Lordſhip to determine by the 6. of <hi>July</hi> 1674. what ſhould be paid <hi>Creſſet</hi> for the ſaid Lands: one moiety whereof was to be paid the 16 <hi>July</hi> 1674, the other moiety on the 8th. of <hi>November</hi> following; otherwiſe they to Seal the Con<g ref="char:EOLhyphen"/>veyances, to levy a Fine, to wave all Priviledge, and to quit all Pretences to the Eſtate in que<g ref="char:EOLhyphen"/>ſtion, this to be done without prejudice to the Decree if the Award ſhould not be by them performed, upon this Order.</p>
+            <p>His Lordſhip was often attended by the parties, ſometimes by themſelves, and at other times with Counſel, and <hi>Creſſet</hi> wholly ſubmitted to his Lordſhips determination, and petitio<g ref="char:EOLhyphen"/>ned him to make his Award.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 July 1674."/> The time limited by the Order of the 18th. of <hi>May</hi> 1674 for making the ſaid Award, was en<g ref="char:EOLhyphen"/>larged by a ſecond Order of Conſent till the 16. of <hi>July</hi> 1674, his Lordſhip was frequently attended in that time, and by <hi>Creſſet</hi> petitioned to make his Award, which he thought not fit to do, becauſe he could not find Mr. <hi>Roberts</hi> had any Money, but declared he was ready to have delivered his Judgment, if he could have ſeen Money ready.</p>
+            <p>So that all this Time, and great Charges was loſt, and the end <hi>Creſſet</hi> had in the Reference wholly fruſtrated, for he could never expect any advantage by ſuch Reference, or that my Lord ſhould have given him more (but rather leſs) than the Land was worth, but well hoped for an end of trouble, and if he had not Money then, to have his Conveyances executed, (when the time limited for the payment thereof had been elapſed,) by which Sealing it is to be obſerved, nothing doth paſs for the Eſtate in Law, is already conveyed, and <hi>Creſſet</hi> is in poſ<g ref="char:EOLhyphen"/>ſeſſion, and Mr. <hi>Roberts</hi> and his Lady their being made parties, was only to teſtifie their Con<g ref="char:EOLhyphen"/>ſents for their Truſtees Indempnity; but being made parties and not Sealing, it frightens per<g ref="char:EOLhyphen"/>ſons from becoming Purchaſers, or lending of Money upon a Mortgage, without which <hi>Creſ<g ref="char:EOLhyphen"/>ſet</hi> cannot pay their Debts, but muſt lie in a Gaol for them, whilſt they (who by means as aforeſaid are become Maſters of his Eſtate) live plentifully in a Palace.</p>
+            <p>From the 16th. of <hi>July</hi> 1674. to <hi>November</hi> 1674. <hi>Creſſet</hi> preſſed the renewing of the afore<g ref="char:EOLhyphen"/>ſaid Reference to the Lord Keeper, which frequently was promiſed, and he put to great charge in going (as well as loſs of time in attending) at <hi>Whitehall</hi> for that purpoſe, but all in vain, for a Reference to his Lordſhip, (or to any other perſon) would not be conſented unto, though <hi>Creſſet</hi> frequently offered to refer it, either to Mr. Attorney or Mr. Sollicitor General (both of them of Mr. <hi>Roberts</hi> his own Councel,) or to any other honeſt and underſtanding Perſon he or his Lady ſhould name.</p>
+            <p>
+               <note place="margin">Note, No 5000 l. was offe<g ref="char:EOLhyphen"/>red till the Eſtate came in<g ref="char:EOLhyphen"/>to poſſeſſion.</note>In <hi>November</hi> 1675. Mr. <hi>Roberts</hi> told <hi>Creſſet</hi> that if he would take five thouſand pound (not only for the Lands aforeſaid, but) for all other the Debts due to him from him (which was above two thouſand five hundred pounds more) and give up all his Securities,
+<pb n="13" facs="tcp:171689:7"/>
+that he had for the ſame (and truſt to his Honour to pay the reſt when he was able) then he ſhould have it preſently paid him, otherwiſe declared he would do nothing; this being unreaſonable and unconſcionable, <hi>Creſſet</hi> did not conſent thereunto.</p>
+            <p>Firſt, becauſe he could never find where any Money was, or any Perſon that would pay it.</p>
+            <p>Secondly, becauſe there was not only above two thouſand five hundred pound more due to him as aforeſaid; but the loſs of his Practiſe, Credit, and Eleven years trouble and ſervice ought alſo to be conſidered.</p>
+            <p>Thirdly, for that the five thouſand pound offered was leſs by three hundred pounds than he paid for the Lands alone in the year 1670, when they were moſt in Reverſion, beſides the Charges of theſe Suits which hath coſt him above twelve hundred pounds, and the Intereſt of his Purchaſe-Money which comes to above twelve hundred pounds more; ſo that in all the Land lies him <hi>Bona fide,</hi> in at leaſt ſeven thouſand ſeven hundred pound, and the Rents received is not above ſeven hundred and ſixty pound; therefore the offering five thouſand pound, is to offer One thouſand nine hundred and forty pound leſs than really the Land lies him in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11 Dec. 1674."/> 
+               <note place="margin">Note, This Petition Mr. <hi>Roberts</hi> was acquainted with had it ſhewn him, and he amended it, and it was de<g ref="char:EOLhyphen"/>livered as he amended it.</note>
+               <hi>Creſſet</hi> finding no way of Accommodation of theſe matters, Petition'd his Majeſty in Council, ſetting forth his Caſe, and that Mr. <hi>Roberts</hi> for three years paſt had taken ſhel<g ref="char:EOLhyphen"/>ter in <hi>Whitehall</hi> againſt Law and Juſtice; that if <hi>Whitehall</hi> ſhould be a Sanctuary againſt all his Royal Proceſs, the end of the Law would be fruſtrated; The Courts of Law and Equity rendred uſeleſs, and all Judgments and Decrees of ſuch Courts become inſignifi<g ref="char:EOLhyphen"/>cant; pray'd therefore that Mr. <hi>Roberts</hi> might be ordered forthwith to Seal the Convey<g ref="char:EOLhyphen"/>ances in Queſtion, or otherwiſe that he might have leave to attach him by a Serj<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt at Arms in <hi>Whitehall.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11 Dec. 1674."/> Upon reading of which Petition, it was Ordered, That his Majeſties pleaſure be declared to the ſaid Mr. <hi>Roberts,</hi> that he expects he ſhould ſpeedily take care to ſatisfie the Juſtice of the Petitioners Demands, or return his Anſwer to that Board.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12 Dec. 1664."/> Mr. <hi>Roberts</hi> was ſerved with the Order and the Petition it ſelf, but in ſtead of anſwering thereof; he on the</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8 Jan. 1674."/> Exhibited a Petition againſt <hi>Creſſet,</hi> charging him with having given in d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceitful Ac<g ref="char:EOLhyphen"/>counts, and with demanding double his due, and ſtriving to defeat him of Seven hundred pound <hi>per annum</hi> of the beſt of his Eſtate; and exacting of Eight thouſand pound for Solli<g ref="char:EOLhyphen"/>citation, &amp;c. by which Petition, (whereof not one ſingle Paragraph was true) it is preſumed he deſigned if poſſible to have begot in his Majeſty, and that Honourable Bard ſuch an ill Opinion of <hi>Creſſet</hi> and his Cauſe, as to have diverted them from doing, (or at leaſt prevailed with them to have delayed) Juſtice, and certainly he could have <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other end, conſidering that although upon the reading of the ſaid Petition, It was Ordered that <hi>Creſſet</hi> ſhould forthwith have a Copy of it, and put in this Anſwer thereunto; yet to his day Mr. <hi>Roberts</hi> hath never drawn up that Order, nor did he ever give <hi>Creſſet</hi> notice thereof, or ſerved him with any Copy (as he ought to have done) but the ſaid <hi>Creſſet</hi> having intitution there<g ref="char:EOLhyphen"/>of from others, took a Copy at his own Charge, and returned his Anſwer to that Honourable Board in writing, wherein he ſet forth the ſubſtance of the matter aforeſaid; as alſo ſomething to cleer the reaſon of his Demands, and to vindicate himſelf from the falſe Aſperſions by that Petition caſt upon him, of demanding Eight thouſand pound for Sollicitation, or unrea<g ref="char:EOLhyphen"/>ſonable Charges for the Suits aforeſaid, this Anſwer was put in the 15 <hi>Jan.</hi> 1664. and therein <milestone type="tcpmilestone" unit="unspecified" n="15 Jan. 1674."/> He acknowledged his demanding above Eight thouſand pound, and gave the reaſons of ſuch his Demands to be as followeth:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 Mar. 1663."/> He demands 2400 <hi>l.</hi> ſecured by Aſſignment of the two five thouſand pound Portions afore<g ref="char:EOLhyphen"/>ſaid, bearing date as in the Margent.</p>
+            <p>Note that in the ſaid Aſſignment the ſaid <hi>Roberts</hi> and <hi>Sarah</hi> his Wife, Covenant that they would not receive any of the two five thouſand pounds themſelves, but that the ſaid <hi>Creſſet</hi> ſhould receive the ſame for his own uſe, and firſt ſatisfy himſelf not only the 2400 <hi>l.</hi> aforeſaid, but alſo all ſuch other ſumms as the ſaid <hi>Creſſet</hi> ſhould lay out for or lend unto, or become bound with him the ſaid <hi>Robert Roberts</hi> for, together with all ſuch coſts and dammages as he ſhould be put unto concerning the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20 July 1664."/> 
+               <hi>Creſſet</hi> having before that time given in an account of Six hundred ſeventy and ſix pound more due to him from the ſaid <hi>Roberts;</hi> the ſaid <hi>Roberts</hi> then allowed the ſame, and by an in<g ref="char:EOLhyphen"/>dorſment on the back of the Aſſignment aforeſaid, made the ſaid two five thouſand pounds liable to pay the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 Octob. 1665"/> The ſaid <hi>Roberts</hi> allowed of a third account for four hundred and fourteen pounds 8 <hi>s.</hi> and 10 <hi>d.</hi> more; and by an indorſement as aforeſaid, ſecured the ſame in manner as the 676 <hi>l.</hi> was, and it being the Sickneſs year, <hi>Creſſet</hi> had from him a Releaſe under hand &amp; Seal from being fur<g ref="char:EOLhyphen"/>ther called to an account for any of the aforeſaid Sums: And the ſaid <hi>Creſſet</hi> conſidering that the ſaid Mr. <hi>Roberts</hi> was in the poſſeſſion of <hi>Bodvells</hi> Eſtate, and not knowing but that the Rents by him received might then after be deducted out of the two five thouſand pounds aſſigned to
+<pb n="14" facs="tcp:171689:8"/>
+him, deſired a further Security from him, who thereupon (by the advice of the Atturny Gene<g ref="char:EOLhyphen"/>ral) gave a Judgment of Six thouſand pounds defeiſanced for the payment of 3490 <hi>l.</hi> 8 <hi>s.</hi> and 10 <hi>d.</hi> then due as aforeſaid, in <hi>Aprill</hi> then next following, and alſo to perform the Covenants of the aforeſaid deed of Aſſignment, which <hi>Creſſet</hi> humbly conceives was but reaſonable for him to ask, and <hi>Roberts</hi> to give, and not any exacting of a double ſecurity for the ſelf-ſame ſums of Money.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 July 1666."/> Upon a fourth account ſtated by Mr. <hi>Roberts</hi> and allowed of, there appeared due more, 580 <hi>l.</hi>
+for ſecuring whereof (by like indorſment upon the back of the aforeſaid Aſſignment) the two five thouſand pounds therein mentioned was made liable,<note place="margin">Note, Mr. <hi>Roberts</hi> promiſed to pay <hi>Creſſet</hi> 1000 <hi>l.</hi> a year before; And if he had paid it down when he ſecured it, it would have been leſs by a 1000 <hi>l.</hi> than by his ordinary courſe of practiſe he might have got in that time with<g ref="char:EOLhyphen"/>out half the trouble he had in this cauſe or loſs of Pra<g ref="char:EOLhyphen"/>ctiſe, Credit or Eſtate.</note> as alſo to pay unto the ſaid <hi>Creſſet</hi> one thouſand pound for his three years and half time then wholly ſpent in Mr. <hi>Roberts</hi> his Ser<g ref="char:EOLhyphen"/>vice, and the aforeſaid Judgment of 6000 <hi>l.</hi> was made liable alſo to pay the ſame.</p>
+            <list>
+               <item>So that the totall ſum then due from the ſaid <hi>Roberts</hi> and ſecured as aforeſaid was 5070 <hi>l.</hi> 8 <hi>s.</hi> 10 <hi>d.</hi>
+               </item>
+               <item>Of all which Sums, or for his eight years loſs of time ſince, or his ſufferings (by ſale of his E<g ref="char:EOLhyphen"/>ſtate at under-rates to pay Mr. <hi>Roberts</hi> his Debts contracted) as aforeſaid, or for the loſs of his Credit, by being ſued for him, and his Practice, <hi>Creſſet</hi> could never get one penny.</item>
+               <item>Add to this 5070 <hi>l.</hi> 8 <hi>s.</hi> 10. the Intereſt thereof for eight years and half, 2586 <hi>l.</hi>
+               </item>
+               <item>The Money lent and laid out for <hi>Roberts</hi> between the 6 of <hi>July</hi> and 26 of <hi>Febr.</hi> 1666, 250 <hi>l.</hi>
+               </item>
+               <item>And the Intereſt thereof for eight years; 120 <hi>l.</hi>
+               </item>
+               <item>
+                  <hi>Creſſets</hi> charges he hath been put to in defending himſelf at Law againſt Mr. <hi>Roberts</hi> Credi<g ref="char:EOLhyphen"/>tors, 300 <hi>l.</hi>
+               </item>
+               <item>And the charges of this Suit in Chancery, which hath coſt 1200 <hi>l.</hi>
+               </item>
+               <item>Makes the whole Demand to be 9486 <hi>l.</hi> 8 <hi>s.</hi> 10 <hi>d.</hi>
+               </item>
+               <item>Beſides the Intereſt of theſe laſt Summs expended in Law-ſuits, and of the Money paid by <hi>Creſſet</hi> to Mr. <hi>Roberts</hi> Creditors for Intereſt-money, Procuration, Continuation-Money, and for altering Securities ſince the 6th. of <hi>July</hi> 1666, all which ought to be allowed <hi>Creſſet,</hi> it being principal out of his Pocket, and being computed amounts to about 600 <hi>l.</hi>
+               </item>
+               <item>And all that <hi>Creſſet</hi> hath received towards ſatisfaction of theſe Demands out of the pro<g ref="char:EOLhyphen"/>fits of the Lands ſold, amounteth not to above 760 <hi>l.</hi>
+               </item>
+               <item>Note, That the aforeſaid 4070 <hi>l.</hi> and 250 <hi>l.</hi> Principle-money was borrowed by <hi>Creſſet</hi> for Mr. <hi>Roberts,</hi> and he being bound with him for the ſame, hath been forced to pay it, together with Intereſt and Charges to the perſons of whom it was borrowed: to wit,<note place="margin">Note, As Money was bor<g ref="char:EOLhyphen"/>rowed, Mr. <hi>Roberts</hi> had part of it, and left the reſt with <hi>Creſſet</hi> to defray Charges, which he himſelf ſaw diſ<g ref="char:EOLhyphen"/>poſed, but <hi>Creſſet</hi> kept the Accompt, and from time to time gave him account thereof, the which he exami<g ref="char:EOLhyphen"/>ned, and afterwards ſtated, allowed and gave Releaſes upon the ſame, ſo that <hi>Creſſet</hi> hath no Accompt with <hi>Roberts,</hi> ſave to have the Money he was bound with him for, and the Inte<g ref="char:EOLhyphen"/>reſt and his Charges of Suits that he hath paid, and been at upon his Accompt.</note>
+                  <list>
+                     <item>Of Mr. <hi>John Jones</hi> in <hi>May</hi> 1663, 800 <hi>l.</hi>
+                     </item>
+                     <item>Of Mr. <hi>Ralph Suckly</hi> in <hi>Aug.</hi> 1663, 1000 <hi>l.</hi>
+                     </item>
+                     <item>Of Sir <hi>Jeremy Whichcot</hi> in <hi>Febr.</hi> 1663, 500 <hi>l.</hi>
+                     </item>
+                     <item>Of Mr. <hi>Edward Rudg</hi> Merchant in 1664, 500 <hi>l.</hi>
+                     </item>
+                     <item>Of Sir <hi>William Roberts</hi> Daughter, 500 <hi>l.</hi>
+                     </item>
+                     <item>Of Serjeant <hi>Maynard,</hi> 200 <hi>l.</hi>
+                     </item>
+                     <item>Of Mr. <hi>Tratford</hi> of the Inner Temple, 300 <hi>l.</hi>
+                     </item>
+                     <item>Of Mr. <hi>Caeſar,</hi> 500 <hi>l.</hi>
+                     </item>
+                     <item>In all 4300 <hi>l.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Which Summs were not all ſpent in the charges of the Suits.</p>
+            <p>For the charges of ſeven Suits in Chancery, two in the Prerogative-Court, two Appeals to the Lords-houſe, and many Suits at common Law did not coſt above 2650 <hi>l.</hi> which (conſi<g ref="char:EOLhyphen"/>dering what the tranſactions of thoſe Cauſes were) was leſs by far than his own Councel thought it had coſt, but there was paid 185 <hi>l.</hi> 16 <hi>s.</hi> 11 <hi>d.</hi> for Mr. <hi>Bodvell</hi>'s Funeral-char<g ref="char:EOLhyphen"/>ges 300 <hi>l.</hi> For Arrears of Ally-money due to his Wife 643 <hi>l.</hi> 4 <hi>s.</hi> 10 <hi>d.</hi> Mr. <hi>Roberts</hi> had him<g ref="char:EOLhyphen"/>ſelf of the Money borrowed, 80 <hi>l.</hi> 5 <hi>s.</hi> 6 <hi>d.</hi> of it was allowed for procuration and conti<g ref="char:EOLhyphen"/>nuation Money, and 466 <hi>l.</hi> was paid for Intereſt of the Summs borrowed from the time of their being lent till the 6th. of <hi>July</hi> 1666.</p>
+            <p>Note that in <hi>February</hi> 1666, when the Act of Parliament paſſed to null <hi>Wynn</hi>'s Pretended Will, and veſt <hi>Bodvell</hi>'s Eſtate in the Truſtees aforeſaid; 5400 <hi>l.</hi> would have paid all <hi>Creſſet</hi>'s Debt, the charges of the Suits, and the ſeveral Sums laid out, for &amp; paid to him as aforeſaid. And if the Truſtees according to the truſt repoſed in them, by that Act had ſo ſoon as the Bill paſ<g ref="char:EOLhyphen"/>ſed, ſold Lands, raiſed 5000 <hi>l.</hi> and paid it to <hi>Creſſet, Creſſet</hi>'s Debt had been ſatisfied all but 400 <hi>l.</hi>
+which he would have been content to have ſtaid for, or to have loſt (ſo as the Eſtate might have been preſerved from ſale) but they neglecting to do the ſame, put <hi>Creſſet</hi> to vaſt charges, and ſuffered the Intereſt-money to riſe high; therefore it is their own fault that the Accompt now is ſo great and ought not to be charged upon <hi>Creſſet</hi> as an extravagant demand, which Mr. <hi>Roberts</hi> (becauſe he cannot perſwade <hi>Creſſet</hi> now to take 5000 <hi>l.</hi> for the 5000 <hi>l.</hi> which ſhould have been paid in 1666, and the Intereſt thereof, and his charges as aforeſaid,) moſt unkindly endeavours to do; which 5000 <hi>l. Creſſet</hi> hath no reaſon to take; conſidering that the payment
+<pb n="15" facs="tcp:171689:8"/>
+of 5000 <hi>l.</hi> now were not to pay above 1700 <hi>l.</hi> inaſmuch as the Intereſt comes to 2586 <hi>l.</hi> (the charges 1500 <hi>l.</hi> (beſides his trouble and loſs of time which is conſiderable) which Summs put together makes in all 9156 <hi>l.</hi> ſo that there having been but 760 <hi>l.</hi> received by profits of the Land, there remains of the ſaid 9156 due 8386 which makes it clear that to pay now 5000 <hi>l.</hi> is not to pay 1700 <hi>l.</hi> principal Money as aforeſaid.</p>
+            <p>Nevertheleſs the ſaid <hi>Creſſet</hi> by his ſaid anſwer under his hand delivered to his Majeſty in Council offered again to refer himſelf to the determination of the Right Honourable, the now Lord Keeper: or Sir <hi>William Jones,</hi> or Sir. <hi>Francis Winington,</hi> or to any other honeſt or un<g ref="char:EOLhyphen"/>derſtanding perſon his Majeſty ſhould name, provided ſuch Referee might be enjoyned to make his Award in ſome ſhort time, and that ſecurity be given by the ſaid <hi>Roberts</hi> to perform that A<g ref="char:EOLhyphen"/>ward before the end of <hi>Hillary</hi> Term then next enſuing, and therefore prayed if this would not ſatisfy that his deeds might be executed, or leave given to attach (Mr. <hi>Roberts</hi> and his Lady as by his former Petition was deſired) humbly offering then to conſideration, as he doth now,</p>
+            <p>Firſt, whether <hi>Creſſet</hi> could have done more than he hath done, either in getting <hi>Bodvells</hi> Eſtate for Mr. <hi>Roberts</hi> or endeavouring to preſerve it to him,</p>
+            <p>Secondly, whether (after Land was decreed to be ſold, and <hi>Creſſet</hi> compelled to find a purchaſer, and by Reaſon of the Defendants refuſing to ſet out Lands, it was put upon him to ſay what he would buy (and he had made choiſe of <hi>Bodvell</hi> for the reaſons aforeſaid) <hi>Creſſet</hi> could have done more than he did (both before and after the ſale and during the Appeal to Parliament and afterwards in Chancery before the Conveyances were executed) to preſerve <hi>Bodvel</hi>'s demeſnes to them: As alſo, whether he could have done more ſince his Conveyances were Executed to let them have it again than he hath done, by making the ſeveral offers and re<g ref="char:EOLhyphen"/>ferences aforeſaid to perſons of his own Nomination and Relations.</p>
+            <p>Thirdly, whether after accounts delivered ſtated allowed, and Releaſes given upon them in 1663, 1664, 1665, and 1666. as aforeſaid; and ſecurity given for the moneys due upon thoſe accounts, and after Recovering in Chancery upon thoſe Securities (where the ſaid <hi>Roberts</hi> and his Lady by anſwer ſwore the ſaid accounts to be Juſt, and deſired Lands might be ſold to ſatisfy the ſame,) And whether after ſuch decreed, confirmed, upon a Bill of Re-view and affirmed by Judgment in the houſe of Lords, upon an Appeal, (and no exceptions taken to the Accounts in any of theſe Courts, where if there had been any occaſion, they might pro<g ref="char:EOLhyphen"/>perly have complained, and have received relief;) The ſaid <hi>Roberts</hi> and <hi>Sarah</hi> ſhould now be admitted to Ravill into accounts ſo ſolemnly ſtated, or to alleage againſt their own Oaths their acts under their hand &amp; ſeals and their continued declarations to all perſons upon all occaſions (of the ſaid <hi>Creſſets</hi> Integrity and Juſtice towards them) meerly with deſign to take away his reputation, which is his life (whoſe Eſtate they have made themſelves Maſters of by means as a<g ref="char:EOLhyphen"/>foreſaid) and that in a place where (if there were juſt cauſe offered) they could receive no Relief.</p>
+            <p>Nevertheleſs <hi>Creſſet</hi> ſubmitted to his Majeſties and the pleaſure of that honourable Board, praying to be heard, offering to make good every Parragraph of that Anſwer.</p>
+            <p>As alſo that the Land ſold is not 700 <hi>l. per Annum,</hi> nor any more than 538 <hi>l.</hi> though ſold to him at 590 <hi>l. per Annum,</hi> and not above 200 <hi>l.</hi> a year was in poſſeſſion when ſold, and 180 a year come into poſſeſſion by Mrs. <hi>Vermudens</hi> death, the reſt remaining Rever<g ref="char:EOLhyphen"/>ſion to this day.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27 Jan. 1679."/> Upon reading part of the ſaid Anſwer; It was ordered by his Majeſty in Council that Mr. <hi>Roberts</hi> ſhould have a Copy thereof and forthwith put in his Reply thereunto.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28 Jan. 1679."/> 
+               <hi>Creſſet</hi> ſerved Mr. <hi>Roberts</hi> with a Copy of that Order and his ſaid Anſwer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5 Febr. 1674."/> Mr. <hi>Roberts</hi> not replying: <hi>Creſſet</hi> petitioned again for a day of hearing, and it was ordered that the Cauſe ſhould be heard the 12. of the ſaid moneth, and both parties then to At<g ref="char:EOLhyphen"/>tend,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6 Feb. 1674."/> He was ſerved with that order: Nevertheleſs</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10 Feb. 1674."/> Mr. <hi>Roberts</hi> petitioned to delay the hearing a week longer, upon pretences that he had not timely Notice thereof. And it was then ordered that the Cauſe ſhould be peremptorily heard the 19 of <hi>February</hi> 1674.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19 Feb. 1674."/> The cauſe being heard his Majeſty was graciouſly pleaſed to declare, that if Mr. <hi>Roberts</hi> do not Satisfy <hi>Creſſet</hi> before the end of <hi>Eaſter</hi> Term 1675. he could not longer protect him againſt Juſtice and the Law:</p>
+            <p>In the mean time Mr. <hi>Roberts</hi> and his Lady declared, they will never Seal the Convey<g ref="char:EOLhyphen"/>ances in queſtion, but rather go beyond Sea, and there live, till they enforce <hi>Creſſet</hi> to depart with his right at their own rates the Conſequence whereof, (if <hi>Creſſet</hi> for want of Relief ſhould be compelled ſo to do) will be that (after eleven years Troubles, Suits, delays, and vaſt Charges (having parted with his own Eſtate to purchaſe <hi>Bod<g ref="char:EOLhyphen"/>vells</hi> Eſtate for them) he muſt inevitably ruin himſelf and Family.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon all which Conſideration be moſt humbly Prays, That a ſhort Act may be paſſed for the Confirmation of the Decrees, Sale and Conveyances aforeſaid, and to Confirm the Eſtate ſold to the Purchaſer, his Heirs and his Aſſigns for ever.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:171689:9"/>
+            <p>The CASE and GRIEVANCE of <hi>John Creſſet</hi> Gentleman; Humbly preſented to Parliament for Relief.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
